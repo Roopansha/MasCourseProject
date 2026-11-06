@@ -1,0 +1,273 @@
+{
+  "learned": "gated_lc0.003_ls0",
+  "learned_density": [
+    1.0
+  ],
+  "learned_switch": [
+    0.0
+  ],
+  "matched_distance": [
+    2.4752697944641113
+  ],
+  "returns": {
+    "learned": {
+      "mean": -9.387256622314453,
+      "ci_lo": NaN,
+      "ci_hi": NaN,
+      "iqm": -9.387256622314453,
+      "n": 1,
+      "values": [
+        -9.387256622314453
+      ]
+    },
+    "fullcomm (all on)": {
+      "mean": -9.602072715759277,
+      "ci_lo": NaN,
+      "ci_hi": NaN,
+      "iqm": -9.602072715759277,
+      "n": 1,
+      "values": [
+        -9.602072715759277
+      ]
+    },
+    "C1 random fixed [eval]": {
+      "mean": -9.602072715759277,
+      "ci_lo": NaN,
+      "ci_hi": NaN,
+      "iqm": -9.602072715759277,
+      "n": 1,
+      "values": [
+        -9.602072715759277
+      ]
+    },
+    "C2 random Markov [eval]": {
+      "mean": -9.602072715759277,
+      "ci_lo": NaN,
+      "ci_hi": NaN,
+      "iqm": -9.602072715759277,
+      "n": 1,
+      "values": [
+        -9.602072715759277
+      ]
+    },
+    "C3 distance rule [eval]": {
+      "mean": -9.602072715759277,
+      "ci_lo": NaN,
+      "ci_hi": NaN,
+      "iqm": -9.602072715759277,
+      "n": 1,
+      "values": [
+        -9.602072715759277
+      ]
+    },
+    "C4 zeroed messages [eval]": {
+      "mean": -10.955255508422852,
+      "ci_lo": NaN,
+      "ci_hi": NaN,
+      "iqm": -10.955255508422852,
+      "n": 1,
+      "values": [
+        -10.955255508422852
+      ]
+    },
+    "C1 [scratch]": {
+      "mean": -9.602072715759277,
+      "ci_lo": NaN,
+      "ci_hi": NaN,
+      "iqm": -9.602072715759277,
+      "n": 1,
+      "values": [
+        -9.602072715759277
+      ]
+    },
+    "C2 [scratch]": {
+      "mean": -9.602072715759277,
+      "ci_lo": NaN,
+      "ci_hi": NaN,
+      "iqm": -9.602072715759277,
+      "n": 1,
+      "values": [
+        -9.602072715759277
+      ]
+    },
+    "C3 [scratch]": {
+      "mean": -9.600303649902344,
+      "ci_lo": NaN,
+      "ci_hi": NaN,
+      "iqm": -9.600303649902344,
+      "n": 1,
+      "values": [
+        -9.600303649902344
+      ]
+    },
+    "C4 [scratch]": {
+      "mean": -10.042187690734863,
+      "ci_lo": NaN,
+      "ci_hi": NaN,
+      "iqm": -10.042187690734863,
+      "n": 1,
+      "values": [
+        -10.042187690734863
+      ]
+    }
+  },
+  "learned_minus_control": {
+    "fullcomm (all on)": {
+      "mean": 0.21481609344482422,
+      "ci_lo": NaN,
+      "ci_hi": NaN,
+      "iqm": 0.21481609344482422,
+      "n": 1,
+      "values": [
+        0.21481609344482422
+      ]
+    },
+    "C1 random fixed [eval]": {
+      "mean": 0.21481609344482422,
+      "ci_lo": NaN,
+      "ci_hi": NaN,
+      "iqm": 0.21481609344482422,
+      "n": 1,
+      "values": [
+        0.21481609344482422
+      ]
+    },
+    "C2 random Markov [eval]": {
+      "mean": 0.21481609344482422,
+      "ci_lo": NaN,
+      "ci_hi": NaN,
+      "iqm": 0.21481609344482422,
+      "n": 1,
+      "values": [
+        0.21481609344482422
+      ]
+    },
+    "C3 distance rule [eval]": {
+      "mean": 0.21481609344482422,
+      "ci_lo": NaN,
+      "ci_hi": NaN,
+      "iqm": 0.21481609344482422,
+      "n": 1,
+      "values": [
+        0.21481609344482422
+      ]
+    },
+    "C4 zeroed messages [eval]": {
+      "mean": 1.5679988861083984,
+      "ci_lo": NaN,
+      "ci_hi": NaN,
+      "iqm": 1.5679988861083984,
+      "n": 1,
+      "values": [
+        1.5679988861083984
+      ]
+    },
+    "C1 [scratch]": {
+      "mean": 0.21481609344482422,
+      "ci_lo": NaN,
+      "ci_hi": NaN,
+      "iqm": 0.21481609344482422,
+      "n": 1,
+      "values": [
+        0.21481609344482422
+      ]
+    },
+    "C2 [scratch]": {
+      "mean": 0.21481609344482422,
+      "ci_lo": NaN,
+      "ci_hi": NaN,
+      "iqm": 0.21481609344482422,
+      "n": 1,
+      "values": [
+        0.21481609344482422
+      ]
+    },
+    "C3 [scratch]": {
+      "mean": 0.21304702758789062,
+      "ci_lo": NaN,
+      "ci_hi": NaN,
+      "iqm": 0.21304702758789062,
+      "n": 1,
+      "values": [
+        0.21304702758789062
+      ]
+    },
+    "C4 [scratch]": {
+      "mean": 0.6549310684204102,
+      "ci_lo": NaN,
+      "ci_hi": NaN,
+      "iqm": 0.6549310684204102,
+      "n": 1,
+      "values": [
+        0.6549310684204102
+      ]
+    }
+  },
+  "achieved_matching": {
+    "C1 random fixed": {
+      "density": [
+        1.0
+      ],
+      "switch": [
+        0.0
+      ]
+    },
+    "C2 random Markov": {
+      "density": [
+        1.0
+      ],
+      "switch": [
+        0.0
+      ]
+    },
+    "C3 distance rule": {
+      "density": [
+        1.0
+      ],
+      "switch": [
+        0.0
+      ]
+    },
+    "C4 zeroed messages": {
+      "density": [
+        1.0
+      ],
+      "switch": [
+        0.0
+      ]
+    },
+    "C1_scratch [scratch]": {
+      "density": [
+        1.0
+      ],
+      "switch": [
+        0.0
+      ]
+    },
+    "C2_scratch [scratch]": {
+      "density": [
+        1.0
+      ],
+      "switch": [
+        0.0
+      ]
+    },
+    "C3_scratch [scratch]": {
+      "density": [
+        0.9998333333333334
+      ],
+      "switch": [
+        6.802721088435374e-05
+      ]
+    },
+    "C4_scratch [scratch]": {
+      "density": [
+        0.0
+      ],
+      "switch": [
+        0.0
+      ]
+    }
+  },
+  "readout": "learned > C1 and C3 => learning found useful links; learned == C1 => it only removed links; C4 near learned => messages carry nothing"
+}

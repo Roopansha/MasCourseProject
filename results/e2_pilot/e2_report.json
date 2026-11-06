@@ -1,0 +1,234 @@
+{
+  "lambdas": [
+    0.0,
+    0.01,
+    0.03,
+    0.1
+  ],
+  "table": {
+    "gated_lc0_ls0": {
+      "episode_return": {
+        "mean": -10.626544952392578,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": -10.626544952392578,
+        "n": 1,
+        "values": [
+          -10.626544952392578
+        ]
+      },
+      "success_rate": {
+        "mean": 0.52,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": 0.52,
+        "n": 1,
+        "values": [
+          0.52
+        ]
+      },
+      "active_link_ratio": {
+        "mean": 1.0,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": 1.0,
+        "n": 1,
+        "values": [
+          1.0
+        ]
+      },
+      "gate_switch_rate": {
+        "mean": 0.0,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": 0.0,
+        "n": 1,
+        "values": [
+          0.0
+        ]
+      },
+      "mean_run_length": {
+        "mean": 50.0,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": 50.0,
+        "n": 1,
+        "values": [
+          50.0
+        ]
+      }
+    },
+    "gated_lc0.01_ls0": {
+      "episode_return": {
+        "mean": -11.145503044128418,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": -11.145503044128418,
+        "n": 1,
+        "values": [
+          -11.145503044128418
+        ]
+      },
+      "success_rate": {
+        "mean": 0.5,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": 0.5,
+        "n": 1,
+        "values": [
+          0.5
+        ]
+      },
+      "active_link_ratio": {
+        "mean": 0.16436666666666666,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": 0.16436666666666666,
+        "n": 1,
+        "values": [
+          0.16436666666666666
+        ]
+      },
+      "gate_switch_rate": {
+        "mean": 0.02685374149659864,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": 0.02685374149659864,
+        "n": 1,
+        "values": [
+          0.02685374149659864
+        ]
+      },
+      "mean_run_length": {
+        "mean": 7.136034732272069,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": 7.136034732272069,
+        "n": 1,
+        "values": [
+          7.136034732272069
+        ]
+      }
+    },
+    "gated_lc0.03_ls0": {
+      "episode_return": {
+        "mean": -11.261305809020996,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": -11.261305809020996,
+        "n": 1,
+        "values": [
+          -11.261305809020996
+        ]
+      },
+      "success_rate": {
+        "mean": 0.52,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": 0.52,
+        "n": 1,
+        "values": [
+          0.52
+        ]
+      },
+      "active_link_ratio": {
+        "mean": 0.055433333333333334,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": 0.055433333333333334,
+        "n": 1,
+        "values": [
+          0.055433333333333334
+        ]
+      },
+      "gate_switch_rate": {
+        "mean": 0.017108843537414965,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": 0.017108843537414965,
+        "n": 1,
+        "values": [
+          0.017108843537414965
+        ]
+      },
+      "mean_run_length": {
+        "mean": 3.414784394250513,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": 3.414784394250513,
+        "n": 1,
+        "values": [
+          3.414784394250513
+        ]
+      }
+    },
+    "gated_lc0.1_ls0": {
+      "episode_return": {
+        "mean": -11.191239356994629,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": -11.191239356994629,
+        "n": 1,
+        "values": [
+          -11.191239356994629
+        ]
+      },
+      "success_rate": {
+        "mean": 0.47,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": 0.47,
+        "n": 1,
+        "values": [
+          0.47
+        ]
+      },
+      "active_link_ratio": {
+        "mean": 0.0013333333333333333,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": 0.0013333333333333333,
+        "n": 1,
+        "values": [
+          0.0013333333333333333
+        ]
+      },
+      "gate_switch_rate": {
+        "mean": 0.0010204081632653062,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": 0.0010204081632653062,
+        "n": 1,
+        "values": [
+          0.0010204081632653062
+        ]
+      },
+      "mean_run_length": {
+        "mean": 1.3333333333333333,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": 1.3333333333333333,
+        "n": 1,
+        "values": [
+          1.3333333333333333
+        ]
+      }
+    }
+  },
+  "knee_density": 0.16436666666666666,
+  "within_tol_conditions": [
+    "gated_lc0_ls0",
+    "gated_lc0.01_ls0"
+  ],
+  "gate_collapse": {
+    "gated_lc0_ls0": false,
+    "gated_lc0.01_ls0": false,
+    "gated_lc0.03_ls0": false,
+    "gated_lc0.1_ls0": true
+  },
+  "density_range": [
+    0.0013333333333333333,
+    1.0
+  ],
+  "calibration_hint": "aim for densities spanning ~1.0 down to 0.1-0.2; if collapse, raise warmup_frac, lower lambdas, raise comm.gate_init_logit or set comm.gate_entropy_coef > 0"
+}

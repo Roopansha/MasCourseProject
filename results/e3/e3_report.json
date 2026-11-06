@@ -1,0 +1,774 @@
+{
+  "grid_lc": [
+    0.0,
+    0.005,
+    0.01
+  ],
+  "grid_ls": [
+    0.0,
+    0.003,
+    0.03
+  ],
+  "table": {
+    "gated_lc0_ls0": {
+      "episode_return": {
+        "mean": -9.218070983886719,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": -9.218070983886719,
+        "n": 1,
+        "values": [
+          -9.218070983886719
+        ]
+      },
+      "success_rate": {
+        "mean": 0.63,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": 0.63,
+        "n": 1,
+        "values": [
+          0.63
+        ]
+      },
+      "active_link_ratio": {
+        "mean": 1.0,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": 1.0,
+        "n": 1,
+        "values": [
+          1.0
+        ]
+      },
+      "gate_switch_rate": {
+        "mean": 0.0,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": 0.0,
+        "n": 1,
+        "values": [
+          0.0
+        ]
+      },
+      "mask_switch_rate": {
+        "mean": 0.0,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": 0.0,
+        "n": 1,
+        "values": [
+          0.0
+        ]
+      },
+      "mean_run_length": {
+        "mean": 50.0,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": 50.0,
+        "n": 1,
+        "values": [
+          50.0
+        ]
+      },
+      "event_rate": {
+        "mean": 0.24486666666666668,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": 0.24486666666666668,
+        "n": 1,
+        "values": [
+          0.24486666666666668
+        ]
+      }
+    },
+    "gated_lc0_ls0.003": {
+      "episode_return": {
+        "mean": -9.721295356750488,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": -9.721295356750488,
+        "n": 1,
+        "values": [
+          -9.721295356750488
+        ]
+      },
+      "success_rate": {
+        "mean": 0.64,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": 0.64,
+        "n": 1,
+        "values": [
+          0.64
+        ]
+      },
+      "active_link_ratio": {
+        "mean": 1.0,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": 1.0,
+        "n": 1,
+        "values": [
+          1.0
+        ]
+      },
+      "gate_switch_rate": {
+        "mean": 0.0,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": 0.0,
+        "n": 1,
+        "values": [
+          0.0
+        ]
+      },
+      "mask_switch_rate": {
+        "mean": 0.0,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": 0.0,
+        "n": 1,
+        "values": [
+          0.0
+        ]
+      },
+      "mean_run_length": {
+        "mean": 50.0,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": 50.0,
+        "n": 1,
+        "values": [
+          50.0
+        ]
+      },
+      "event_rate": {
+        "mean": 0.24966666666666668,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": 0.24966666666666668,
+        "n": 1,
+        "values": [
+          0.24966666666666668
+        ]
+      }
+    },
+    "gated_lc0_ls0.03": {
+      "episode_return": {
+        "mean": -9.235126495361328,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": -9.235126495361328,
+        "n": 1,
+        "values": [
+          -9.235126495361328
+        ]
+      },
+      "success_rate": {
+        "mean": 0.64,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": 0.64,
+        "n": 1,
+        "values": [
+          0.64
+        ]
+      },
+      "active_link_ratio": {
+        "mean": 1.0,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": 1.0,
+        "n": 1,
+        "values": [
+          1.0
+        ]
+      },
+      "gate_switch_rate": {
+        "mean": 0.0,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": 0.0,
+        "n": 1,
+        "values": [
+          0.0
+        ]
+      },
+      "mask_switch_rate": {
+        "mean": 0.0,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": 0.0,
+        "n": 1,
+        "values": [
+          0.0
+        ]
+      },
+      "mean_run_length": {
+        "mean": 50.0,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": 50.0,
+        "n": 1,
+        "values": [
+          50.0
+        ]
+      },
+      "event_rate": {
+        "mean": 0.24573333333333333,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": 0.24573333333333333,
+        "n": 1,
+        "values": [
+          0.24573333333333333
+        ]
+      }
+    },
+    "gated_lc0.005_ls0": {
+      "episode_return": {
+        "mean": -9.598614692687988,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": -9.598614692687988,
+        "n": 1,
+        "values": [
+          -9.598614692687988
+        ]
+      },
+      "success_rate": {
+        "mean": 0.59,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": 0.59,
+        "n": 1,
+        "values": [
+          0.59
+        ]
+      },
+      "active_link_ratio": {
+        "mean": 0.27941666666666665,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": 0.27941666666666665,
+        "n": 1,
+        "values": [
+          0.27941666666666665
+        ]
+      },
+      "gate_switch_rate": {
+        "mean": 0.0379421768707483,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": 0.0379421768707483,
+        "n": 1,
+        "values": [
+          0.0379421768707483
+        ]
+      },
+      "mask_switch_rate": {
+        "mean": 0.0,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": 0.0,
+        "n": 1,
+        "values": [
+          0.0
+        ]
+      },
+      "mean_run_length": {
+        "mean": 9.809830310122878,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": 9.809830310122878,
+        "n": 1,
+        "values": [
+          9.809830310122878
+        ]
+      },
+      "event_rate": {
+        "mean": 0.23878333333333332,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": 0.23878333333333332,
+        "n": 1,
+        "values": [
+          0.23878333333333332
+        ]
+      }
+    },
+    "gated_lc0.005_ls0.003": {
+      "episode_return": {
+        "mean": -8.524121284484863,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": -8.524121284484863,
+        "n": 1,
+        "values": [
+          -8.524121284484863
+        ]
+      },
+      "success_rate": {
+        "mean": 0.68,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": 0.68,
+        "n": 1,
+        "values": [
+          0.68
+        ]
+      },
+      "active_link_ratio": {
+        "mean": 1.0,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": 1.0,
+        "n": 1,
+        "values": [
+          1.0
+        ]
+      },
+      "gate_switch_rate": {
+        "mean": 0.0,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": 0.0,
+        "n": 1,
+        "values": [
+          0.0
+        ]
+      },
+      "mask_switch_rate": {
+        "mean": 0.0,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": 0.0,
+        "n": 1,
+        "values": [
+          0.0
+        ]
+      },
+      "mean_run_length": {
+        "mean": 50.0,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": 50.0,
+        "n": 1,
+        "values": [
+          50.0
+        ]
+      },
+      "event_rate": {
+        "mean": 0.23258333333333334,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": 0.23258333333333334,
+        "n": 1,
+        "values": [
+          0.23258333333333334
+        ]
+      }
+    },
+    "gated_lc0.005_ls0.03": {
+      "episode_return": {
+        "mean": -9.348036766052246,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": -9.348036766052246,
+        "n": 1,
+        "values": [
+          -9.348036766052246
+        ]
+      },
+      "success_rate": {
+        "mean": 0.61,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": 0.61,
+        "n": 1,
+        "values": [
+          0.61
+        ]
+      },
+      "active_link_ratio": {
+        "mean": 1.0,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": 1.0,
+        "n": 1,
+        "values": [
+          1.0
+        ]
+      },
+      "gate_switch_rate": {
+        "mean": 0.0,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": 0.0,
+        "n": 1,
+        "values": [
+          0.0
+        ]
+      },
+      "mask_switch_rate": {
+        "mean": 0.0,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": 0.0,
+        "n": 1,
+        "values": [
+          0.0
+        ]
+      },
+      "mean_run_length": {
+        "mean": 50.0,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": 50.0,
+        "n": 1,
+        "values": [
+          50.0
+        ]
+      },
+      "event_rate": {
+        "mean": 0.21965,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": 0.21965,
+        "n": 1,
+        "values": [
+          0.21965
+        ]
+      }
+    },
+    "gated_lc0.01_ls0": {
+      "episode_return": {
+        "mean": -10.537837028503418,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": -10.537837028503418,
+        "n": 1,
+        "values": [
+          -10.537837028503418
+        ]
+      },
+      "success_rate": {
+        "mean": 0.52,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": 0.52,
+        "n": 1,
+        "values": [
+          0.52
+        ]
+      },
+      "active_link_ratio": {
+        "mean": 0.05413333333333333,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": 0.05413333333333333,
+        "n": 1,
+        "values": [
+          0.05413333333333333
+        ]
+      },
+      "gate_switch_rate": {
+        "mean": 0.020272108843537414,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": 0.020272108843537414,
+        "n": 1,
+        "values": [
+          0.020272108843537414
+        ]
+      },
+      "mask_switch_rate": {
+        "mean": 0.0,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": 0.0,
+        "n": 1,
+        "values": [
+          0.0
+        ]
+      },
+      "mean_run_length": {
+        "mean": 2.8072601555747623,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": 2.8072601555747623,
+        "n": 1,
+        "values": [
+          2.8072601555747623
+        ]
+      },
+      "event_rate": {
+        "mean": 0.23863333333333334,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": 0.23863333333333334,
+        "n": 1,
+        "values": [
+          0.23863333333333334
+        ]
+      }
+    },
+    "gated_lc0.01_ls0.003": {
+      "episode_return": {
+        "mean": -10.836418151855469,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": -10.836418151855469,
+        "n": 1,
+        "values": [
+          -10.836418151855469
+        ]
+      },
+      "success_rate": {
+        "mean": 0.52,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": 0.52,
+        "n": 1,
+        "values": [
+          0.52
+        ]
+      },
+      "active_link_ratio": {
+        "mean": 0.10388333333333333,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": 0.10388333333333333,
+        "n": 1,
+        "values": [
+          0.10388333333333333
+        ]
+      },
+      "gate_switch_rate": {
+        "mean": 0.022789115646258504,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": 0.022789115646258504,
+        "n": 1,
+        "values": [
+          0.022789115646258504
+        ]
+      },
+      "mask_switch_rate": {
+        "mean": 0.0,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": 0.0,
+        "n": 1,
+        "values": [
+          0.0
+        ]
+      },
+      "mean_run_length": {
+        "mean": 5.121610517666393,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": 5.121610517666393,
+        "n": 1,
+        "values": [
+          5.121610517666393
+        ]
+      },
+      "event_rate": {
+        "mean": 0.26866666666666666,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": 0.26866666666666666,
+        "n": 1,
+        "values": [
+          0.26866666666666666
+        ]
+      }
+    },
+    "gated_lc0.01_ls0.03": {
+      "episode_return": {
+        "mean": -9.14314079284668,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": -9.14314079284668,
+        "n": 1,
+        "values": [
+          -9.14314079284668
+        ]
+      },
+      "success_rate": {
+        "mean": 0.71,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": 0.71,
+        "n": 1,
+        "values": [
+          0.71
+        ]
+      },
+      "active_link_ratio": {
+        "mean": 1.0,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": 1.0,
+        "n": 1,
+        "values": [
+          1.0
+        ]
+      },
+      "gate_switch_rate": {
+        "mean": 0.0,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": 0.0,
+        "n": 1,
+        "values": [
+          0.0
+        ]
+      },
+      "mask_switch_rate": {
+        "mean": 0.0,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": 0.0,
+        "n": 1,
+        "values": [
+          0.0
+        ]
+      },
+      "mean_run_length": {
+        "mean": 50.0,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": 50.0,
+        "n": 1,
+        "values": [
+          50.0
+        ]
+      },
+      "event_rate": {
+        "mean": 0.24756666666666666,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": 0.24756666666666666,
+        "n": 1,
+        "values": [
+          0.24756666666666666
+        ]
+      }
+    }
+  },
+  "per_run": [
+    {
+      "name": "gated_lc0_ls0",
+      "lc": 0.0,
+      "ls": 0.0,
+      "density": 1.0,
+      "switch": 0.0,
+      "run_length": 50.0,
+      "mask_switch": 0.0,
+      "return": -9.218070983886719
+    },
+    {
+      "name": "gated_lc0_ls0.003",
+      "lc": 0.0,
+      "ls": 0.003,
+      "density": 1.0,
+      "switch": 0.0,
+      "run_length": 50.0,
+      "mask_switch": 0.0,
+      "return": -9.721295356750488
+    },
+    {
+      "name": "gated_lc0_ls0.03",
+      "lc": 0.0,
+      "ls": 0.03,
+      "density": 1.0,
+      "switch": 0.0,
+      "run_length": 50.0,
+      "mask_switch": 0.0,
+      "return": -9.235126495361328
+    },
+    {
+      "name": "gated_lc0.005_ls0",
+      "lc": 0.005,
+      "ls": 0.0,
+      "density": 0.27941666666666665,
+      "switch": 0.0379421768707483,
+      "run_length": 9.809830310122878,
+      "mask_switch": 0.0,
+      "return": -9.598614692687988
+    },
+    {
+      "name": "gated_lc0.005_ls0.003",
+      "lc": 0.005,
+      "ls": 0.003,
+      "density": 1.0,
+      "switch": 0.0,
+      "run_length": 50.0,
+      "mask_switch": 0.0,
+      "return": -8.524121284484863
+    },
+    {
+      "name": "gated_lc0.005_ls0.03",
+      "lc": 0.005,
+      "ls": 0.03,
+      "density": 1.0,
+      "switch": 0.0,
+      "run_length": 50.0,
+      "mask_switch": 0.0,
+      "return": -9.348036766052246
+    },
+    {
+      "name": "gated_lc0.01_ls0",
+      "lc": 0.01,
+      "ls": 0.0,
+      "density": 0.05413333333333333,
+      "switch": 0.020272108843537414,
+      "run_length": 2.8072601555747623,
+      "mask_switch": 0.0,
+      "return": -10.537837028503418
+    },
+    {
+      "name": "gated_lc0.01_ls0.003",
+      "lc": 0.01,
+      "ls": 0.003,
+      "density": 0.10388333333333333,
+      "switch": 0.022789115646258504,
+      "run_length": 5.121610517666393,
+      "mask_switch": 0.0,
+      "return": -10.836418151855469
+    },
+    {
+      "name": "gated_lc0.01_ls0.03",
+      "lc": 0.01,
+      "ls": 0.03,
+      "density": 1.0,
+      "switch": 0.0,
+      "run_length": 50.0,
+      "mask_switch": 0.0,
+      "return": -9.14314079284668
+    }
+  ],
+  "matched_density": [
+    {
+      "density_bin": [
+        0.9,
+        1.0
+      ],
+      "n_ls0": 1,
+      "n_ls_pos": 5,
+      "return_ls0": -9.218070983886719,
+      "return_ls_pos": -9.19434413909912,
+      "return_diff": 0.02372684478759801,
+      "return_diff_ci": [
+        -0.29035968780517507,
+        0.38696556091308665
+      ],
+      "switch_ls0": 0.0,
+      "switch_ls_pos": 0.0
+    }
+  ],
+  "readout": "return differing between lambda_s settings within a density bin => persistence matters independently; only switch rate differing => affects stability, not performance"
+}

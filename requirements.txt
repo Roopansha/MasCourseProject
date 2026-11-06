@@ -1,0 +1,15 @@
+# Tested on Windows 11 / Python 3.10.11 (CPU). On Linux/WSL2 with CUDA, replace
+# `jax[cpu]` with `jax[cuda12]==0.6.2` to use the GPU; nothing else changes.
+jax[cpu]==0.6.2
+jaxlib==0.6.2
+flax==0.10.7
+optax==0.2.8
+hydra-core==1.3.8
+omegaconf==2.3.1
+numpy==2.2.6
+scipy==1.15.3
+matplotlib==3.10.9
+rliable==1.2.0
+wandb==0.31.0
+psutil==7.2.2
+pytest==9.2.0

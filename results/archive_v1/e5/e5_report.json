@@ -1,0 +1,2087 @@
+{
+  "per_model": {
+    "gated_lc0_ls0": {
+      "det": {
+        "phi": {
+          "mean": 0.0,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": 0.0,
+          "n": 1,
+          "values": [
+            0.0
+          ]
+        },
+        "cramers_v": {
+          "mean": 0.0,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": 0.0,
+          "n": 1,
+          "values": [
+            0.0
+          ]
+        },
+        "lift": {
+          "mean": 1.0,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": 1.0,
+          "n": 1,
+          "values": [
+            1.0
+          ]
+        },
+        "auroc": {
+          "mean": 0.5,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": 0.5,
+          "n": 1,
+          "values": [
+            0.5
+          ]
+        },
+        "auroc_alpha": {
+          "mean": 0.5068316691892965,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": 0.5068316691892965,
+          "n": 1,
+          "values": [
+            0.5068316691892965
+          ]
+        },
+        "phi_stratified": {
+          "mean": 0.0,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": 0.0,
+          "n": 1,
+          "values": [
+            0.0
+          ]
+        },
+        "lift_stratified": {
+          "mean": 1.0,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": 1.0,
+          "n": 1,
+          "values": [
+            1.0
+          ]
+        },
+        "phi_excess_over_null": {
+          "mean": 0.0,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": 0.0,
+          "n": 1,
+          "values": [
+            0.0
+          ]
+        },
+        "phi_stratified_excess_over_null": {
+          "mean": 0.0,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": 0.0,
+          "n": 1,
+          "values": [
+            0.0
+          ]
+        },
+        "lift_excess_over_null": {
+          "mean": 0.0,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": 0.0,
+          "n": 1,
+          "values": [
+            0.0
+          ]
+        },
+        "phi_null_percentile": [
+          0.5
+        ],
+        "phi_p_value": [
+          1.0
+        ]
+      },
+      "stoch": {
+        "phi": {
+          "mean": 0.0027761074665978653,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": 0.0027761074665978653,
+          "n": 1,
+          "values": [
+            0.0027761074665978653
+          ]
+        },
+        "cramers_v": {
+          "mean": 0.0027761074665978653,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": 0.0027761074665978653,
+          "n": 1,
+          "values": [
+            0.0027761074665978653
+          ]
+        },
+        "lift": {
+          "mean": 1.0005150439192276,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": 1.0005150439192276,
+          "n": 1,
+          "values": [
+            1.0005150439192276
+          ]
+        },
+        "auroc": {
+          "mean": 0.5002558630566553,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": 0.5002558630566553,
+          "n": 1,
+          "values": [
+            0.5002558630566553
+          ]
+        },
+        "auroc_alpha": {
+          "mean": 0.5057488833233801,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": 0.5057488833233801,
+          "n": 1,
+          "values": [
+            0.5057488833233801
+          ]
+        },
+        "phi_stratified": {
+          "mean": -0.0017112205858913995,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": -0.0017112205858913995,
+          "n": 1,
+          "values": [
+            -0.0017112205858913995
+          ]
+        },
+        "lift_stratified": {
+          "mean": 1.0001960095687368,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": 1.0001960095687368,
+          "n": 1,
+          "values": [
+            1.0001960095687368
+          ]
+        },
+        "phi_excess_over_null": {
+          "mean": 0.003191256302163871,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": 0.003191256302163871,
+          "n": 1,
+          "values": [
+            0.003191256302163871
+          ]
+        },
+        "phi_stratified_excess_over_null": {
+          "mean": 0.0005379267494284587,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": 0.0005379267494284587,
+          "n": 1,
+          "values": [
+            0.0005379267494284587
+          ]
+        },
+        "lift_excess_over_null": {
+          "mean": 0.0005919678244922233,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": 0.0005919678244922233,
+          "n": 1,
+          "values": [
+            0.0005919678244922233
+          ]
+        },
+        "phi_null_percentile": [
+          0.8414999999999999
+        ],
+        "phi_p_value": [
+          0.3276723276723277
+        ]
+      }
+    },
+    "gated_lc0_ls0.003": {
+      "det": {
+        "phi": {
+          "mean": 0.0,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": 0.0,
+          "n": 1,
+          "values": [
+            0.0
+          ]
+        },
+        "cramers_v": {
+          "mean": 0.0,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": 0.0,
+          "n": 1,
+          "values": [
+            0.0
+          ]
+        },
+        "lift": {
+          "mean": 1.0,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": 1.0,
+          "n": 1,
+          "values": [
+            1.0
+          ]
+        },
+        "auroc": {
+          "mean": 0.5,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": 0.5,
+          "n": 1,
+          "values": [
+            0.5
+          ]
+        },
+        "auroc_alpha": {
+          "mean": 0.5106209819816026,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": 0.5106209819816026,
+          "n": 1,
+          "values": [
+            0.5106209819816026
+          ]
+        },
+        "phi_stratified": {
+          "mean": 0.0,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": 0.0,
+          "n": 1,
+          "values": [
+            0.0
+          ]
+        },
+        "lift_stratified": {
+          "mean": 1.0,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": 1.0,
+          "n": 1,
+          "values": [
+            1.0
+          ]
+        },
+        "phi_excess_over_null": {
+          "mean": 0.0,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": 0.0,
+          "n": 1,
+          "values": [
+            0.0
+          ]
+        },
+        "phi_stratified_excess_over_null": {
+          "mean": 0.0,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": 0.0,
+          "n": 1,
+          "values": [
+            0.0
+          ]
+        },
+        "lift_excess_over_null": {
+          "mean": 0.0,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": 0.0,
+          "n": 1,
+          "values": [
+            0.0
+          ]
+        },
+        "phi_null_percentile": [
+          0.5
+        ],
+        "phi_p_value": [
+          1.0
+        ]
+      },
+      "stoch": {
+        "phi": {
+          "mean": 9.721487139454556e-05,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": 9.721487139454556e-05,
+          "n": 1,
+          "values": [
+            9.721487139454556e-05
+          ]
+        },
+        "cramers_v": {
+          "mean": 9.721487139454556e-05,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": 9.721487139454556e-05,
+          "n": 1,
+          "values": [
+            9.721487139454556e-05
+          ]
+        },
+        "lift": {
+          "mean": 1.0000057861703961,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": 1.0000057861703961,
+          "n": 1,
+          "values": [
+            1.0000057861703961
+          ]
+        },
+        "auroc": {
+          "mean": 0.5000028911522651,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": 0.5000028911522651,
+          "n": 1,
+          "values": [
+            0.5000028911522651
+          ]
+        },
+        "auroc_alpha": {
+          "mean": 0.5109416586773017,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": 0.5109416586773017,
+          "n": 1,
+          "values": [
+            0.5109416586773017
+          ]
+        },
+        "phi_stratified": {
+          "mean": -0.000544071402470643,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": -0.000544071402470643,
+          "n": 1,
+          "values": [
+            -0.000544071402470643
+          ]
+        },
+        "lift_stratified": {
+          "mean": 0.9999651137542823,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": 0.9999651137542823,
+          "n": 1,
+          "values": [
+            0.9999651137542823
+          ]
+        },
+        "phi_excess_over_null": {
+          "mean": -0.005050213370098281,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": -0.005050213370098281,
+          "n": 1,
+          "values": [
+            -0.005050213370098281
+          ]
+        },
+        "phi_stratified_excess_over_null": {
+          "mean": -0.005179201335825686,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": -0.005179201335825686,
+          "n": 1,
+          "values": [
+            -0.005179201335825686
+          ]
+        },
+        "lift_excess_over_null": {
+          "mean": -0.0003006181816056497,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": -0.0003006181816056497,
+          "n": 1,
+          "values": [
+            -0.0003006181816056497
+          ]
+        },
+        "phi_null_percentile": [
+          0.068
+        ],
+        "phi_p_value": [
+          0.16083916083916083
+        ]
+      }
+    },
+    "gated_lc0_ls0.03": {
+      "det": {
+        "phi": {
+          "mean": 0.0,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": 0.0,
+          "n": 1,
+          "values": [
+            0.0
+          ]
+        },
+        "cramers_v": {
+          "mean": 0.0,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": 0.0,
+          "n": 1,
+          "values": [
+            0.0
+          ]
+        },
+        "lift": {
+          "mean": 1.0,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": 1.0,
+          "n": 1,
+          "values": [
+            1.0
+          ]
+        },
+        "auroc": {
+          "mean": 0.5,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": 0.5,
+          "n": 1,
+          "values": [
+            0.5
+          ]
+        },
+        "auroc_alpha": {
+          "mean": 0.510036802091743,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": 0.510036802091743,
+          "n": 1,
+          "values": [
+            0.510036802091743
+          ]
+        },
+        "phi_stratified": {
+          "mean": 0.0,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": 0.0,
+          "n": 1,
+          "values": [
+            0.0
+          ]
+        },
+        "lift_stratified": {
+          "mean": 1.0,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": 1.0,
+          "n": 1,
+          "values": [
+            1.0
+          ]
+        },
+        "phi_excess_over_null": {
+          "mean": 0.0,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": 0.0,
+          "n": 1,
+          "values": [
+            0.0
+          ]
+        },
+        "phi_stratified_excess_over_null": {
+          "mean": 0.0,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": 0.0,
+          "n": 1,
+          "values": [
+            0.0
+          ]
+        },
+        "lift_excess_over_null": {
+          "mean": 0.0,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": 0.0,
+          "n": 1,
+          "values": [
+            0.0
+          ]
+        },
+        "phi_null_percentile": [
+          0.5
+        ],
+        "phi_p_value": [
+          1.0
+        ]
+      },
+      "stoch": {
+        "phi": {
+          "mean": 0.005208134737163377,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": 0.005208134737163377,
+          "n": 1,
+          "values": [
+            0.005208134737163377
+          ]
+        },
+        "cramers_v": {
+          "mean": 0.005208134737163377,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": 0.005208134737163377,
+          "n": 1,
+          "values": [
+            0.005208134737163377
+          ]
+        },
+        "lift": {
+          "mean": 1.0001104679422033,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": 1.0001104679422033,
+          "n": 1,
+          "values": [
+            1.0001104679422033
+          ]
+        },
+        "auroc": {
+          "mean": 0.5000552278701924,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": 0.5000552278701924,
+          "n": 1,
+          "values": [
+            0.5000552278701924
+          ]
+        },
+        "auroc_alpha": {
+          "mean": 0.5101161046897064,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": 0.5101161046897064,
+          "n": 1,
+          "values": [
+            0.5101161046897064
+          ]
+        },
+        "phi_stratified": {
+          "mean": 0.003933169060984481,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": 0.003933169060984481,
+          "n": 1,
+          "values": [
+            0.003933169060984481
+          ]
+        },
+        "lift_stratified": {
+          "mean": 1.0001021316996763,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": 1.0001021316996763,
+          "n": 1,
+          "values": [
+            1.0001021316996763
+          ]
+        },
+        "phi_excess_over_null": {
+          "mean": 0.0007678048360224565,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": 0.0007678048360224565,
+          "n": 1,
+          "values": [
+            0.0007678048360224565
+          ]
+        },
+        "phi_stratified_excess_over_null": {
+          "mean": 0.0005014032038117553,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": 0.0005014032038117553,
+          "n": 1,
+          "values": [
+            0.0005014032038117553
+          ]
+        },
+        "lift_excess_over_null": {
+          "mean": 1.6285700557450156e-05,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": 1.6285700557450156e-05,
+          "n": 1,
+          "values": [
+            1.6285700557450156e-05
+          ]
+        },
+        "phi_null_percentile": [
+          0.5874999999999999
+        ],
+        "phi_p_value": [
+          1.0
+        ]
+      }
+    },
+    "gated_lc0.001_ls0": {
+      "det": {
+        "phi": {
+          "mean": 0.0,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": 0.0,
+          "n": 1,
+          "values": [
+            0.0
+          ]
+        },
+        "cramers_v": {
+          "mean": 0.0,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": 0.0,
+          "n": 1,
+          "values": [
+            0.0
+          ]
+        },
+        "lift": {
+          "mean": 1.0,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": 1.0,
+          "n": 1,
+          "values": [
+            1.0
+          ]
+        },
+        "auroc": {
+          "mean": 0.5,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": 0.5,
+          "n": 1,
+          "values": [
+            0.5
+          ]
+        },
+        "auroc_alpha": {
+          "mean": 0.5352002600328132,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": 0.5352002600328132,
+          "n": 1,
+          "values": [
+            0.5352002600328132
+          ]
+        },
+        "phi_stratified": {
+          "mean": 0.0,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": 0.0,
+          "n": 1,
+          "values": [
+            0.0
+          ]
+        },
+        "lift_stratified": {
+          "mean": 1.0,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": 1.0,
+          "n": 1,
+          "values": [
+            1.0
+          ]
+        },
+        "phi_excess_over_null": {
+          "mean": 0.0,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": 0.0,
+          "n": 1,
+          "values": [
+            0.0
+          ]
+        },
+        "phi_stratified_excess_over_null": {
+          "mean": 0.0,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": 0.0,
+          "n": 1,
+          "values": [
+            0.0
+          ]
+        },
+        "lift_excess_over_null": {
+          "mean": 0.0,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": 0.0,
+          "n": 1,
+          "values": [
+            0.0
+          ]
+        },
+        "phi_null_percentile": [
+          0.5
+        ],
+        "phi_p_value": [
+          1.0
+        ]
+      },
+      "stoch": {
+        "phi": {
+          "mean": 0.0010923950657489448,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": 0.0010923950657489448,
+          "n": 1,
+          "values": [
+            0.0010923950657489448
+          ]
+        },
+        "cramers_v": {
+          "mean": 0.0010923950657489448,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": 0.0010923950657489448,
+          "n": 1,
+          "values": [
+            0.0010923950657489448
+          ]
+        },
+        "lift": {
+          "mean": 1.0001183734307666,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": 1.0001183734307666,
+          "n": 1,
+          "values": [
+            1.0001183734307666
+          ]
+        },
+        "auroc": {
+          "mean": 0.5000590527397619,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": 0.5000590527397619,
+          "n": 1,
+          "values": [
+            0.5000590527397619
+          ]
+        },
+        "auroc_alpha": {
+          "mean": 0.5431249596641606,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": 0.5431249596641606,
+          "n": 1,
+          "values": [
+            0.5431249596641606
+          ]
+        },
+        "phi_stratified": {
+          "mean": -0.0006821439992807958,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": -0.0006821439992807958,
+          "n": 1,
+          "values": [
+            -0.0006821439992807958
+          ]
+        },
+        "lift_stratified": {
+          "mean": 0.9999899980598201,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": 0.9999899980598201,
+          "n": 1,
+          "values": [
+            0.9999899980598201
+          ]
+        },
+        "phi_excess_over_null": {
+          "mean": -0.003272575935366037,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": -0.003272575935366037,
+          "n": 1,
+          "values": [
+            -0.003272575935366037
+          ]
+        },
+        "phi_stratified_excess_over_null": {
+          "mean": -0.004602019835746555,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": -0.004602019835746555,
+          "n": 1,
+          "values": [
+            -0.004602019835746555
+          ]
+        },
+        "lift_excess_over_null": {
+          "mean": -0.00035469486021533214,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": -0.00035469486021533214,
+          "n": 1,
+          "values": [
+            -0.00035469486021533214
+          ]
+        },
+        "phi_null_percentile": [
+          0.1585
+        ],
+        "phi_p_value": [
+          0.3116883116883117
+        ]
+      }
+    },
+    "gated_lc0.001_ls0.003": {
+      "det": {
+        "phi": {
+          "mean": 0.0,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": 0.0,
+          "n": 1,
+          "values": [
+            0.0
+          ]
+        },
+        "cramers_v": {
+          "mean": 0.0,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": 0.0,
+          "n": 1,
+          "values": [
+            0.0
+          ]
+        },
+        "lift": {
+          "mean": 1.0,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": 1.0,
+          "n": 1,
+          "values": [
+            1.0
+          ]
+        },
+        "auroc": {
+          "mean": 0.5,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": 0.5,
+          "n": 1,
+          "values": [
+            0.5
+          ]
+        },
+        "auroc_alpha": {
+          "mean": 0.5350785809906445,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": 0.5350785809906445,
+          "n": 1,
+          "values": [
+            0.5350785809906445
+          ]
+        },
+        "phi_stratified": {
+          "mean": 0.0,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": 0.0,
+          "n": 1,
+          "values": [
+            0.0
+          ]
+        },
+        "lift_stratified": {
+          "mean": 1.0,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": 1.0,
+          "n": 1,
+          "values": [
+            1.0
+          ]
+        },
+        "phi_excess_over_null": {
+          "mean": 0.0,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": 0.0,
+          "n": 1,
+          "values": [
+            0.0
+          ]
+        },
+        "phi_stratified_excess_over_null": {
+          "mean": 0.0,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": 0.0,
+          "n": 1,
+          "values": [
+            0.0
+          ]
+        },
+        "lift_excess_over_null": {
+          "mean": 0.0,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": 0.0,
+          "n": 1,
+          "values": [
+            0.0
+          ]
+        },
+        "phi_null_percentile": [
+          0.5
+        ],
+        "phi_p_value": [
+          1.0
+        ]
+      },
+      "stoch": {
+        "phi": {
+          "mean": 0.002047948830647289,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": 0.002047948830647289,
+          "n": 1,
+          "values": [
+            0.002047948830647289
+          ]
+        },
+        "cramers_v": {
+          "mean": 0.002047948830647289,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": 0.002047948830647289,
+          "n": 1,
+          "values": [
+            0.002047948830647289
+          ]
+        },
+        "lift": {
+          "mean": 1.0001465902312783,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": 1.0001465902312783,
+          "n": 1,
+          "values": [
+            1.0001465902312783
+          ]
+        },
+        "auroc": {
+          "mean": 0.5000732215507856,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": 0.5000732215507856,
+          "n": 1,
+          "values": [
+            0.5000732215507856
+          ]
+        },
+        "auroc_alpha": {
+          "mean": 0.54093058068249,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": 0.54093058068249,
+          "n": 1,
+          "values": [
+            0.54093058068249
+          ]
+        },
+        "phi_stratified": {
+          "mean": 0.00040688035464075376,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": 0.00040688035464075376,
+          "n": 1,
+          "values": [
+            0.00040688035464075376
+          ]
+        },
+        "lift_stratified": {
+          "mean": 1.0000454887161647,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": 1.0000454887161647,
+          "n": 1,
+          "values": [
+            1.0000454887161647
+          ]
+        },
+        "phi_excess_over_null": {
+          "mean": -0.0009267909441495114,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": -0.0009267909441495114,
+          "n": 1,
+          "values": [
+            -0.0009267909441495114
+          ]
+        },
+        "phi_stratified_excess_over_null": {
+          "mean": -0.002585332368114395,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": -0.002585332368114395,
+          "n": 1,
+          "values": [
+            -0.002585332368114395
+          ]
+        },
+        "lift_excess_over_null": {
+          "mean": -6.635621737260955e-05,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": -6.635621737260955e-05,
+          "n": 1,
+          "values": [
+            -6.635621737260955e-05
+          ]
+        },
+        "phi_null_percentile": [
+          0.395
+        ],
+        "phi_p_value": [
+          0.8831168831168831
+        ]
+      }
+    },
+    "gated_lc0.001_ls0.03": {
+      "det": {
+        "phi": {
+          "mean": 0.0,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": 0.0,
+          "n": 1,
+          "values": [
+            0.0
+          ]
+        },
+        "cramers_v": {
+          "mean": 0.0,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": 0.0,
+          "n": 1,
+          "values": [
+            0.0
+          ]
+        },
+        "lift": {
+          "mean": 1.0,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": 1.0,
+          "n": 1,
+          "values": [
+            1.0
+          ]
+        },
+        "auroc": {
+          "mean": 0.5,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": 0.5,
+          "n": 1,
+          "values": [
+            0.5
+          ]
+        },
+        "auroc_alpha": {
+          "mean": 0.5315659162980233,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": 0.5315659162980233,
+          "n": 1,
+          "values": [
+            0.5315659162980233
+          ]
+        },
+        "phi_stratified": {
+          "mean": 0.0,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": 0.0,
+          "n": 1,
+          "values": [
+            0.0
+          ]
+        },
+        "lift_stratified": {
+          "mean": 1.0,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": 1.0,
+          "n": 1,
+          "values": [
+            1.0
+          ]
+        },
+        "phi_excess_over_null": {
+          "mean": 0.0,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": 0.0,
+          "n": 1,
+          "values": [
+            0.0
+          ]
+        },
+        "phi_stratified_excess_over_null": {
+          "mean": 0.0,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": 0.0,
+          "n": 1,
+          "values": [
+            0.0
+          ]
+        },
+        "lift_excess_over_null": {
+          "mean": 0.0,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": 0.0,
+          "n": 1,
+          "values": [
+            0.0
+          ]
+        },
+        "phi_null_percentile": [
+          0.5
+        ],
+        "phi_p_value": [
+          1.0
+        ]
+      },
+      "stoch": {
+        "phi": {
+          "mean": 0.012172980775738534,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": 0.012172980775738534,
+          "n": 1,
+          "values": [
+            0.012172980775738534
+          ]
+        },
+        "cramers_v": {
+          "mean": 0.012172980775738534,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": 0.012172980775738534,
+          "n": 1,
+          "values": [
+            0.012172980775738534
+          ]
+        },
+        "lift": {
+          "mean": 1.0007589239043104,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": 1.0007589239043104,
+          "n": 1,
+          "values": [
+            1.0007589239043104
+          ]
+        },
+        "auroc": {
+          "mean": 0.5003790840370186,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": 0.5003790840370186,
+          "n": 1,
+          "values": [
+            0.5003790840370186
+          ]
+        },
+        "auroc_alpha": {
+          "mean": 0.5312864575362441,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": 0.5312864575362441,
+          "n": 1,
+          "values": [
+            0.5312864575362441
+          ]
+        },
+        "phi_stratified": {
+          "mean": 0.007071902025416095,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": 0.007071902025416095,
+          "n": 1,
+          "values": [
+            0.007071902025416095
+          ]
+        },
+        "lift_stratified": {
+          "mean": 1.000219855718151,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": 1.000219855718151,
+          "n": 1,
+          "values": [
+            1.000219855718151
+          ]
+        },
+        "phi_excess_over_null": {
+          "mean": 0.00599710409507666,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": 0.00599710409507666,
+          "n": 1,
+          "values": [
+            0.00599710409507666
+          ]
+        },
+        "phi_stratified_excess_over_null": {
+          "mean": 0.001835687897991046,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": 0.001835687897991046,
+          "n": 1,
+          "values": [
+            0.001835687897991046
+          ]
+        },
+        "lift_excess_over_null": {
+          "mean": 0.00037391711479006773,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": 0.00037391711479006773,
+          "n": 1,
+          "values": [
+            0.00037391711479006773
+          ]
+        },
+        "phi_null_percentile": [
+          0.9714999999999999
+        ],
+        "phi_p_value": [
+          0.06893106893106893
+        ]
+      }
+    },
+    "gated_lc0.01_ls0": {
+      "det": {
+        "phi": {
+          "mean": 0.05199821489017544,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": 0.05199821489017544,
+          "n": 1,
+          "values": [
+            0.05199821489017544
+          ]
+        },
+        "cramers_v": {
+          "mean": 0.05199821489017544,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": 0.05199821489017544,
+          "n": 1,
+          "values": [
+            0.05199821489017544
+          ]
+        },
+        "lift": {
+          "mean": 1.5805753398792026,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": 1.5805753398792026,
+          "n": 1,
+          "values": [
+            1.5805753398792026
+          ]
+        },
+        "auroc": {
+          "mean": 0.5138020406091856,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": 0.5138020406091856,
+          "n": 1,
+          "values": [
+            0.5138020406091856
+          ]
+        },
+        "auroc_alpha": {
+          "mean": 0.5533763782726306,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": 0.5533763782726306,
+          "n": 1,
+          "values": [
+            0.5533763782726306
+          ]
+        },
+        "phi_stratified": {
+          "mean": 0.049037767080193556,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": 0.049037767080193556,
+          "n": 1,
+          "values": [
+            0.049037767080193556
+          ]
+        },
+        "lift_stratified": {
+          "mean": 1.6672859273350804,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": 1.6672859273350804,
+          "n": 1,
+          "values": [
+            1.6672859273350804
+          ]
+        },
+        "phi_excess_over_null": {
+          "mean": 0.054871685736220754,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": 0.054871685736220754,
+          "n": 1,
+          "values": [
+            0.054871685736220754
+          ]
+        },
+        "phi_stratified_excess_over_null": {
+          "mean": 0.05374983587872185,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": 0.05374983587872185,
+          "n": 1,
+          "values": [
+            0.05374983587872185
+          ]
+        },
+        "lift_excess_over_null": {
+          "mean": 0.6079110425289146,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": 0.6079110425289146,
+          "n": 1,
+          "values": [
+            0.6079110425289146
+          ]
+        },
+        "phi_null_percentile": [
+          1.0
+        ],
+        "phi_p_value": [
+          0.000999000999000999
+        ]
+      },
+      "stoch": {
+        "phi": {
+          "mean": 0.04627356783051458,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": 0.04627356783051458,
+          "n": 1,
+          "values": [
+            0.04627356783051458
+          ]
+        },
+        "cramers_v": {
+          "mean": 0.04627356783051458,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": 0.04627356783051458,
+          "n": 1,
+          "values": [
+            0.04627356783051458
+          ]
+        },
+        "lift": {
+          "mean": 1.518750195620942,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": 1.518750195620942,
+          "n": 1,
+          "values": [
+            1.518750195620942
+          ]
+        },
+        "auroc": {
+          "mean": 0.5120839082913782,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": 0.5120839082913782,
+          "n": 1,
+          "values": [
+            0.5120839082913782
+          ]
+        },
+        "auroc_alpha": {
+          "mean": 0.555228016632083,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": 0.555228016632083,
+          "n": 1,
+          "values": [
+            0.555228016632083
+          ]
+        },
+        "phi_stratified": {
+          "mean": 0.043282190782252816,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": 0.043282190782252816,
+          "n": 1,
+          "values": [
+            0.043282190782252816
+          ]
+        },
+        "lift_stratified": {
+          "mean": 1.6145332601232192,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": 1.6145332601232192,
+          "n": 1,
+          "values": [
+            1.6145332601232192
+          ]
+        },
+        "phi_excess_over_null": {
+          "mean": 0.05332806058801916,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": 0.05332806058801916,
+          "n": 1,
+          "values": [
+            0.05332806058801916
+          ]
+        },
+        "phi_stratified_excess_over_null": {
+          "mean": 0.05265777289984053,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": 0.05265777289984053,
+          "n": 1,
+          "values": [
+            0.05265777289984053
+          ]
+        },
+        "lift_excess_over_null": {
+          "mean": 0.5873379550766075,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": 0.5873379550766075,
+          "n": 1,
+          "values": [
+            0.5873379550766075
+          ]
+        },
+        "phi_null_percentile": [
+          1.0
+        ],
+        "phi_p_value": [
+          0.000999000999000999
+        ]
+      }
+    },
+    "gated_lc0.01_ls0.003": {
+      "det": {
+        "phi": {
+          "mean": 0.03356890092584516,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": 0.03356890092584516,
+          "n": 1,
+          "values": [
+            0.03356890092584516
+          ]
+        },
+        "cramers_v": {
+          "mean": 0.03356890092584516,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": 0.03356890092584516,
+          "n": 1,
+          "values": [
+            0.03356890092584516
+          ]
+        },
+        "lift": {
+          "mean": 1.2365604906736574,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": 1.2365604906736574,
+          "n": 1,
+          "values": [
+            1.2365604906736574
+          ]
+        },
+        "auroc": {
+          "mean": 0.5115530795695908,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": 0.5115530795695908,
+          "n": 1,
+          "values": [
+            0.5115530795695908
+          ]
+        },
+        "auroc_alpha": {
+          "mean": 0.5037834412202465,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": 0.5037834412202465,
+          "n": 1,
+          "values": [
+            0.5037834412202465
+          ]
+        },
+        "phi_stratified": {
+          "mean": 0.023182012210282182,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": 0.023182012210282182,
+          "n": 1,
+          "values": [
+            0.023182012210282182
+          ]
+        },
+        "lift_stratified": {
+          "mean": 1.1676363400113325,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": 1.1676363400113325,
+          "n": 1,
+          "values": [
+            1.1676363400113325
+          ]
+        },
+        "phi_excess_over_null": {
+          "mean": 0.0436988629718474,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": 0.0436988629718474,
+          "n": 1,
+          "values": [
+            0.0436988629718474
+          ]
+        },
+        "phi_stratified_excess_over_null": {
+          "mean": 0.03686122809314299,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": 0.03686122809314299,
+          "n": 1,
+          "values": [
+            0.03686122809314299
+          ]
+        },
+        "lift_excess_over_null": {
+          "mean": 0.3020415817671731,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": 0.3020415817671731,
+          "n": 1,
+          "values": [
+            0.3020415817671731
+          ]
+        },
+        "phi_null_percentile": [
+          1.0
+        ],
+        "phi_p_value": [
+          0.000999000999000999
+        ]
+      },
+      "stoch": {
+        "phi": {
+          "mean": 0.031314028401466784,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": 0.031314028401466784,
+          "n": 1,
+          "values": [
+            0.031314028401466784
+          ]
+        },
+        "cramers_v": {
+          "mean": 0.031314028401466784,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": 0.031314028401466784,
+          "n": 1,
+          "values": [
+            0.031314028401466784
+          ]
+        },
+        "lift": {
+          "mean": 1.2287925727791316,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": 1.2287925727791316,
+          "n": 1,
+          "values": [
+            1.2287925727791316
+          ]
+        },
+        "auroc": {
+          "mean": 0.510480102038146,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": 0.510480102038146,
+          "n": 1,
+          "values": [
+            0.510480102038146
+          ]
+        },
+        "auroc_alpha": {
+          "mean": 0.502416252556212,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": 0.502416252556212,
+          "n": 1,
+          "values": [
+            0.502416252556212
+          ]
+        },
+        "phi_stratified": {
+          "mean": 0.022925380029492865,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": 0.022925380029492865,
+          "n": 1,
+          "values": [
+            0.022925380029492865
+          ]
+        },
+        "lift_stratified": {
+          "mean": 1.1707733983118898,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": 1.1707733983118898,
+          "n": 1,
+          "values": [
+            1.1707733983118898
+          ]
+        },
+        "phi_excess_over_null": {
+          "mean": 0.03712970802632966,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": 0.03712970802632966,
+          "n": 1,
+          "values": [
+            0.03712970802632966
+          ]
+        },
+        "phi_stratified_excess_over_null": {
+          "mean": 0.03184665066199859,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": 0.03184665066199859,
+          "n": 1,
+          "values": [
+            0.03184665066199859
+          ]
+        },
+        "lift_excess_over_null": {
+          "mean": 0.2679448616197775,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": 0.2679448616197775,
+          "n": 1,
+          "values": [
+            0.2679448616197775
+          ]
+        },
+        "phi_null_percentile": [
+          1.0
+        ],
+        "phi_p_value": [
+          0.000999000999000999
+        ]
+      }
+    },
+    "gated_lc0.01_ls0.03": {
+      "det": {
+        "phi": {
+          "mean": 0.0,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": 0.0,
+          "n": 1,
+          "values": [
+            0.0
+          ]
+        },
+        "cramers_v": {
+          "mean": 0.0,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": 0.0,
+          "n": 1,
+          "values": [
+            0.0
+          ]
+        },
+        "lift": {
+          "mean": 1.0,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": 1.0,
+          "n": 1,
+          "values": [
+            1.0
+          ]
+        },
+        "auroc": {
+          "mean": 0.5,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": 0.5,
+          "n": 1,
+          "values": [
+            0.5
+          ]
+        },
+        "auroc_alpha": {
+          "mean": 0.5328798356246103,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": 0.5328798356246103,
+          "n": 1,
+          "values": [
+            0.5328798356246103
+          ]
+        },
+        "phi_stratified": {
+          "mean": 0.0,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": 0.0,
+          "n": 1,
+          "values": [
+            0.0
+          ]
+        },
+        "lift_stratified": {
+          "mean": 1.0,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": 1.0,
+          "n": 1,
+          "values": [
+            1.0
+          ]
+        },
+        "phi_excess_over_null": {
+          "mean": 0.0,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": 0.0,
+          "n": 1,
+          "values": [
+            0.0
+          ]
+        },
+        "phi_stratified_excess_over_null": {
+          "mean": 0.0,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": 0.0,
+          "n": 1,
+          "values": [
+            0.0
+          ]
+        },
+        "lift_excess_over_null": {
+          "mean": 0.0,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": 0.0,
+          "n": 1,
+          "values": [
+            0.0
+          ]
+        },
+        "phi_null_percentile": [
+          0.5
+        ],
+        "phi_p_value": [
+          1.0
+        ]
+      },
+      "stoch": {
+        "phi": {
+          "mean": 0.011394595273069703,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": 0.011394595273069703,
+          "n": 1,
+          "values": [
+            0.011394595273069703
+          ]
+        },
+        "cramers_v": {
+          "mean": 0.011394595273069703,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": 0.011394595273069703,
+          "n": 1,
+          "values": [
+            0.011394595273069703
+          ]
+        },
+        "lift": {
+          "mean": 1.0008147971547294,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": 1.0008147971547294,
+          "n": 1,
+          "values": [
+            1.0008147971547294
+          ]
+        },
+        "auroc": {
+          "mean": 0.500406929618981,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": 0.500406929618981,
+          "n": 1,
+          "values": [
+            0.500406929618981
+          ]
+        },
+        "auroc_alpha": {
+          "mean": 0.5373297660366039,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": 0.5373297660366039,
+          "n": 1,
+          "values": [
+            0.5373297660366039
+          ]
+        },
+        "phi_stratified": {
+          "mean": 0.00560781451491374,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": 0.00560781451491374,
+          "n": 1,
+          "values": [
+            0.00560781451491374
+          ]
+        },
+        "lift_stratified": {
+          "mean": 1.0004155278301636,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": 1.0004155278301636,
+          "n": 1,
+          "values": [
+            1.0004155278301636
+          ]
+        },
+        "phi_excess_over_null": {
+          "mean": 0.0050910500306438206,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": 0.0050910500306438206,
+          "n": 1,
+          "values": [
+            0.0050910500306438206
+          ]
+        },
+        "phi_stratified_excess_over_null": {
+          "mean": 8.366244506028634e-05,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": 8.366244506028634e-05,
+          "n": 1,
+          "values": [
+            8.366244506028634e-05
+          ]
+        },
+        "lift_excess_over_null": {
+          "mean": 0.00036407352556766526,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": 0.00036407352556766526,
+          "n": 1,
+          "values": [
+            0.00036407352556766526
+          ]
+        },
+        "phi_null_percentile": [
+          0.9410000000000001
+        ],
+        "phi_p_value": [
+          0.13986013986013987
+        ]
+      }
+    }
+  },
+  "per_run": [
+    {
+      "name": "gated_lc0_ls0",
+      "density": 1.0,
+      "switch": 0.0,
+      "lift": 1.0,
+      "phi": 0.0,
+      "lift_excess": 0.0
+    },
+    {
+      "name": "gated_lc0_ls0.003",
+      "density": 1.0,
+      "switch": 0.0,
+      "lift": 1.0,
+      "phi": 0.0,
+      "lift_excess": 0.0
+    },
+    {
+      "name": "gated_lc0_ls0.03",
+      "density": 1.0,
+      "switch": 0.0,
+      "lift": 1.0,
+      "phi": 0.0,
+      "lift_excess": 0.0
+    },
+    {
+      "name": "gated_lc0.001_ls0",
+      "density": 1.0,
+      "switch": 0.0,
+      "lift": 1.0,
+      "phi": 0.0,
+      "lift_excess": 0.0
+    },
+    {
+      "name": "gated_lc0.001_ls0.003",
+      "density": 1.0,
+      "switch": 0.0,
+      "lift": 1.0,
+      "phi": 0.0,
+      "lift_excess": 0.0
+    },
+    {
+      "name": "gated_lc0.001_ls0.03",
+      "density": 1.0,
+      "switch": 0.0,
+      "lift": 1.0,
+      "phi": 0.0,
+      "lift_excess": 0.0
+    },
+    {
+      "name": "gated_lc0.01_ls0",
+      "density": 0.05413333333333333,
+      "switch": 0.020272108843537414,
+      "lift": 1.5805753398792026,
+      "phi": 0.05199821489017544,
+      "lift_excess": 0.6079110425289146
+    },
+    {
+      "name": "gated_lc0.01_ls0.003",
+      "density": 0.10388333333333333,
+      "switch": 0.022789115646258504,
+      "lift": 1.2365604906736574,
+      "phi": 0.03356890092584516,
+      "lift_excess": 0.3020415817671731
+    },
+    {
+      "name": "gated_lc0.01_ls0.03",
+      "density": 1.0,
+      "switch": 0.0,
+      "lift": 1.0,
+      "phi": 0.0,
+      "lift_excess": 0.0
+    }
+  ],
+  "matched_density": [
+    {
+      "density_bin": [
+        0.9,
+        1.0
+      ],
+      "models": {
+        "gated_lc0_ls0": {
+          "lift": 1.0,
+          "switch": 0.0,
+          "n": 1
+        },
+        "gated_lc0_ls0.003": {
+          "lift": 1.0,
+          "switch": 0.0,
+          "n": 1
+        },
+        "gated_lc0_ls0.03": {
+          "lift": 1.0,
+          "switch": 0.0,
+          "n": 1
+        },
+        "gated_lc0.001_ls0": {
+          "lift": 1.0,
+          "switch": 0.0,
+          "n": 1
+        },
+        "gated_lc0.001_ls0.003": {
+          "lift": 1.0,
+          "switch": 0.0,
+          "n": 1
+        },
+        "gated_lc0.001_ls0.03": {
+          "lift": 1.0,
+          "switch": 0.0,
+          "n": 1
+        },
+        "gated_lc0.01_ls0.03": {
+          "lift": 1.0,
+          "switch": 0.0,
+          "n": 1
+        }
+      }
+    }
+  ],
+  "n_shifts": 1000,
+  "note": "association, not causation; one statistic per seed, bootstrap across seeds"
+}

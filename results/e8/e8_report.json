@@ -1,0 +1,497 @@
+{
+  "per_method": {
+    "nocomm": {
+      "probe_r2": {
+        "mean": -0.011855363845825195,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": -0.011855363845825195,
+        "n": 1,
+        "values": [
+          -0.011855363845825195
+        ]
+      },
+      "readability": {
+        "mean": 0.73675,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": 0.73675,
+        "n": 1,
+        "values": [
+          0.73675
+        ]
+      },
+      "faithfulness_kl": {
+        "mean": 2.287072961570935e-11,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": 2.287072961570935e-11,
+        "n": 1,
+        "values": [
+          2.287072961570935e-11
+        ]
+      },
+      "bits_per_agent_step": {
+        "mean": 0.0,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": 0.0,
+        "n": 1,
+        "values": [
+          0.0
+        ]
+      },
+      "crossplay_return": {
+        "mean": NaN,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": NaN,
+        "n": 0,
+        "values": [
+          NaN
+        ]
+      },
+      "crossplay_drop": {
+        "mean": NaN,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": NaN,
+        "n": 0,
+        "values": [
+          NaN
+        ]
+      },
+      "readability_direct": {
+        "mean": NaN,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": NaN,
+        "n": 0,
+        "values": [
+          NaN
+        ]
+      },
+      "episode_return": {
+        "mean": -10.662053108215332,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": -10.662053108215332,
+        "n": 1,
+        "values": [
+          -10.662053108215332
+        ]
+      }
+    },
+    "fullcomm": {
+      "probe_r2": {
+        "mean": 0.34854018688201904,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": 0.34854018688201904,
+        "n": 1,
+        "values": [
+          0.34854018688201904
+        ]
+      },
+      "readability": {
+        "mean": 0.73475,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": 0.73475,
+        "n": 1,
+        "values": [
+          0.73475
+        ]
+      },
+      "faithfulness_kl": {
+        "mean": 0.22791557013988495,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": 0.22791557013988495,
+        "n": 1,
+        "values": [
+          0.22791557013988495
+        ]
+      },
+      "bits_per_agent_step": {
+        "mean": 1536.0,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": 1536.0,
+        "n": 1,
+        "values": [
+          1536.0
+        ]
+      },
+      "crossplay_return": {
+        "mean": NaN,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": NaN,
+        "n": 0,
+        "values": [
+          NaN
+        ]
+      },
+      "crossplay_drop": {
+        "mean": NaN,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": NaN,
+        "n": 0,
+        "values": [
+          NaN
+        ]
+      },
+      "readability_direct": {
+        "mean": NaN,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": NaN,
+        "n": 0,
+        "values": [
+          NaN
+        ]
+      },
+      "episode_return": {
+        "mean": -9.602072715759277,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": -9.602072715759277,
+        "n": 1,
+        "values": [
+          -9.602072715759277
+        ]
+      }
+    },
+    "aecomm": {
+      "probe_r2": {
+        "mean": 0.5833876132965088,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": 0.5833876132965088,
+        "n": 1,
+        "values": [
+          0.5833876132965088
+        ]
+      },
+      "readability": {
+        "mean": 0.78175,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": 0.78175,
+        "n": 1,
+        "values": [
+          0.78175
+        ]
+      },
+      "faithfulness_kl": {
+        "mean": 0.09400730580091476,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": 0.09400730580091476,
+        "n": 1,
+        "values": [
+          0.09400730580091476
+        ]
+      },
+      "bits_per_agent_step": {
+        "mean": 1536.0,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": 1536.0,
+        "n": 1,
+        "values": [
+          1536.0
+        ]
+      },
+      "crossplay_return": {
+        "mean": NaN,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": NaN,
+        "n": 0,
+        "values": [
+          NaN
+        ]
+      },
+      "crossplay_drop": {
+        "mean": NaN,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": NaN,
+        "n": 0,
+        "values": [
+          NaN
+        ]
+      },
+      "readability_direct": {
+        "mean": NaN,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": NaN,
+        "n": 0,
+        "values": [
+          NaN
+        ]
+      },
+      "episode_return": {
+        "mean": -9.110017776489258,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": -9.110017776489258,
+        "n": 1,
+        "values": [
+          -9.110017776489258
+        ]
+      }
+    },
+    "language": {
+      "probe_r2": {
+        "mean": 0.5998884439468384,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": 0.5998884439468384,
+        "n": 1,
+        "values": [
+          0.5998884439468384
+        ]
+      },
+      "readability": {
+        "mean": 0.9635,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": 0.9635,
+        "n": 1,
+        "values": [
+          0.9635
+        ]
+      },
+      "faithfulness_kl": {
+        "mean": 0.12563703954219818,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": 0.12563703954219818,
+        "n": 1,
+        "values": [
+          0.12563703954219818
+        ]
+      },
+      "bits_per_agent_step": {
+        "mean": 9.509775004326936,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": 9.509775004326936,
+        "n": 1,
+        "values": [
+          9.509775004326936
+        ]
+      },
+      "crossplay_return": {
+        "mean": NaN,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": NaN,
+        "n": 0,
+        "values": [
+          NaN
+        ]
+      },
+      "crossplay_drop": {
+        "mean": NaN,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": NaN,
+        "n": 0,
+        "values": [
+          NaN
+        ]
+      },
+      "readability_direct": {
+        "mean": 0.95975,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": 0.95975,
+        "n": 1,
+        "values": [
+          0.95975
+        ]
+      },
+      "episode_return": {
+        "mean": -10.891979217529297,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": -10.891979217529297,
+        "n": 1,
+        "values": [
+          -10.891979217529297
+        ]
+      }
+    },
+    "gated_lc0.005_ls0": {
+      "probe_r2": {
+        "mean": 0.36632591485977173,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": 0.36632591485977173,
+        "n": 1,
+        "values": [
+          0.36632591485977173
+        ]
+      },
+      "readability": {
+        "mean": 0.73525,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": 0.73525,
+        "n": 1,
+        "values": [
+          0.73525
+        ]
+      },
+      "faithfulness_kl": {
+        "mean": 0.35329297184944153,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": 0.35329297184944153,
+        "n": 1,
+        "values": [
+          0.35329297184944153
+        ]
+      },
+      "bits_per_agent_step": {
+        "mean": 429.184,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": 429.184,
+        "n": 1,
+        "values": [
+          429.184
+        ]
+      },
+      "crossplay_return": {
+        "mean": NaN,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": NaN,
+        "n": 0,
+        "values": [
+          NaN
+        ]
+      },
+      "crossplay_drop": {
+        "mean": NaN,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": NaN,
+        "n": 0,
+        "values": [
+          NaN
+        ]
+      },
+      "readability_direct": {
+        "mean": NaN,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": NaN,
+        "n": 0,
+        "values": [
+          NaN
+        ]
+      },
+      "episode_return": {
+        "mean": -9.598614692687988,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": -9.598614692687988,
+        "n": 1,
+        "values": [
+          -9.598614692687988
+        ]
+      }
+    },
+    "ic3net": {
+      "probe_r2": {
+        "mean": 0.33108341693878174,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": 0.33108341693878174,
+        "n": 1,
+        "values": [
+          0.33108341693878174
+        ]
+      },
+      "readability": {
+        "mean": 0.70225,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": 0.70225,
+        "n": 1,
+        "values": [
+          0.70225
+        ]
+      },
+      "faithfulness_kl": {
+        "mean": 0.475949764251709,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": 0.475949764251709,
+        "n": 1,
+        "values": [
+          0.475949764251709
+        ]
+      },
+      "bits_per_agent_step": {
+        "mean": 121.1904,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": 121.1904,
+        "n": 1,
+        "values": [
+          121.1904
+        ]
+      },
+      "crossplay_return": {
+        "mean": NaN,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": NaN,
+        "n": 0,
+        "values": [
+          NaN
+        ]
+      },
+      "crossplay_drop": {
+        "mean": NaN,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": NaN,
+        "n": 0,
+        "values": [
+          NaN
+        ]
+      },
+      "readability_direct": {
+        "mean": NaN,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": NaN,
+        "n": 0,
+        "values": [
+          NaN
+        ]
+      },
+      "episode_return": {
+        "mean": -11.16276741027832,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": -11.16276741027832,
+        "n": 1,
+        "values": [
+          -11.16276741027832
+        ]
+      }
+    }
+  },
+  "caution": "language-grounded methods are readable by construction; weigh faithfulness more heavily"
+}

@@ -1,0 +1,1709 @@
+{
+  "per_condition": {
+    "fullcomm_N4": {
+      "episode_return": {
+        "mean": -9.602072715759277,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": -9.602072715759277,
+        "n": 1,
+        "values": [
+          -9.602072715759277
+        ]
+      },
+      "success_rate": {
+        "mean": 0.59,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": 0.59,
+        "n": 1,
+        "values": [
+          0.59
+        ]
+      },
+      "active_link_ratio": {
+        "mean": 1.0,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": 1.0,
+        "n": 1,
+        "values": [
+          1.0
+        ]
+      },
+      "gate_switch_rate": {
+        "mean": 0.0,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": 0.0,
+        "n": 1,
+        "values": [
+          0.0
+        ]
+      },
+      "mask_switch_rate": {
+        "mean": 0.0,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": 0.0,
+        "n": 1,
+        "values": [
+          0.0
+        ]
+      },
+      "mean_run_length": {
+        "mean": 50.0,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": 50.0,
+        "n": 1,
+        "values": [
+          50.0
+        ]
+      },
+      "fps_env_steps": {
+        "mean": 3926.206265281872,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": 3926.206265281872,
+        "n": 1,
+        "values": [
+          3926.206265281872
+        ]
+      },
+      "peak_memory_mb": {
+        "mean": 35.908935546875,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": 35.908935546875,
+        "n": 1,
+        "values": [
+          35.908935546875
+        ]
+      }
+    },
+    "nocomm_N4": {
+      "episode_return": {
+        "mean": -10.662053108215332,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": -10.662053108215332,
+        "n": 1,
+        "values": [
+          -10.662053108215332
+        ]
+      },
+      "success_rate": {
+        "mean": 0.64,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": 0.64,
+        "n": 1,
+        "values": [
+          0.64
+        ]
+      },
+      "active_link_ratio": {
+        "mean": 1.0,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": 1.0,
+        "n": 1,
+        "values": [
+          1.0
+        ]
+      },
+      "gate_switch_rate": {
+        "mean": 0.0,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": 0.0,
+        "n": 1,
+        "values": [
+          0.0
+        ]
+      },
+      "mask_switch_rate": {
+        "mean": 0.0,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": 0.0,
+        "n": 1,
+        "values": [
+          0.0
+        ]
+      },
+      "mean_run_length": {
+        "mean": 50.0,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": 50.0,
+        "n": 1,
+        "values": [
+          50.0
+        ]
+      },
+      "fps_env_steps": {
+        "mean": 3952.801472191442,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": 3952.801472191442,
+        "n": 1,
+        "values": [
+          3952.801472191442
+        ]
+      },
+      "peak_memory_mb": {
+        "mean": 36.121826171875,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": 36.121826171875,
+        "n": 1,
+        "values": [
+          36.121826171875
+        ]
+      }
+    },
+    "gated_lc0.003_ls0.003_N4": {
+      "episode_return": {
+        "mean": -9.194311141967773,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": -9.194311141967773,
+        "n": 1,
+        "values": [
+          -9.194311141967773
+        ]
+      },
+      "success_rate": {
+        "mean": 0.62,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": 0.62,
+        "n": 1,
+        "values": [
+          0.62
+        ]
+      },
+      "active_link_ratio": {
+        "mean": 1.0,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": 1.0,
+        "n": 1,
+        "values": [
+          1.0
+        ]
+      },
+      "gate_switch_rate": {
+        "mean": 0.0,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": 0.0,
+        "n": 1,
+        "values": [
+          0.0
+        ]
+      },
+      "mask_switch_rate": {
+        "mean": 0.0,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": 0.0,
+        "n": 1,
+        "values": [
+          0.0
+        ]
+      },
+      "mean_run_length": {
+        "mean": 50.0,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": 50.0,
+        "n": 1,
+        "values": [
+          50.0
+        ]
+      },
+      "fps_env_steps": {
+        "mean": 4938.817684835056,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": 4938.817684835056,
+        "n": 1,
+        "values": [
+          4938.817684835056
+        ]
+      },
+      "peak_memory_mb": {
+        "mean": 36.021728515625,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": 36.021728515625,
+        "n": 1,
+        "values": [
+          36.021728515625
+        ]
+      },
+      "phi": {
+        "mean": 0.0,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": 0.0,
+        "n": 1,
+        "values": [
+          0.0
+        ]
+      },
+      "phi_excess_over_null": {
+        "mean": 0.0,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": 0.0,
+        "n": 1,
+        "values": [
+          0.0
+        ]
+      },
+      "lift": {
+        "mean": 1.0,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": 1.0,
+        "n": 1,
+        "values": [
+          1.0
+        ]
+      },
+      "phi_p_value": [
+        1.0
+      ]
+    },
+    "fullcomm_N10": {
+      "episode_return": {
+        "mean": -12.135607719421387,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": -12.135607719421387,
+        "n": 1,
+        "values": [
+          -12.135607719421387
+        ]
+      },
+      "success_rate": {
+        "mean": 0.02,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": 0.02,
+        "n": 1,
+        "values": [
+          0.02
+        ]
+      },
+      "active_link_ratio": {
+        "mean": 1.0,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": 1.0,
+        "n": 1,
+        "values": [
+          1.0
+        ]
+      },
+      "gate_switch_rate": {
+        "mean": 0.0,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": 0.0,
+        "n": 1,
+        "values": [
+          0.0
+        ]
+      },
+      "mask_switch_rate": {
+        "mean": 0.0,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": 0.0,
+        "n": 1,
+        "values": [
+          0.0
+        ]
+      },
+      "mean_run_length": {
+        "mean": 50.0,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": 50.0,
+        "n": 1,
+        "values": [
+          50.0
+        ]
+      },
+      "fps_env_steps": {
+        "mean": 3791.2842933316983,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": 3791.2842933316983,
+        "n": 1,
+        "values": [
+          3791.2842933316983
+        ]
+      },
+      "peak_memory_mb": {
+        "mean": 132.116943359375,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": 132.116943359375,
+        "n": 1,
+        "values": [
+          132.116943359375
+        ]
+      }
+    },
+    "nocomm_N10": {
+      "episode_return": {
+        "mean": -13.429461479187012,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": -13.429461479187012,
+        "n": 1,
+        "values": [
+          -13.429461479187012
+        ]
+      },
+      "success_rate": {
+        "mean": 0.03,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": 0.03,
+        "n": 1,
+        "values": [
+          0.03
+        ]
+      },
+      "active_link_ratio": {
+        "mean": 1.0,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": 1.0,
+        "n": 1,
+        "values": [
+          1.0
+        ]
+      },
+      "gate_switch_rate": {
+        "mean": 0.0,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": 0.0,
+        "n": 1,
+        "values": [
+          0.0
+        ]
+      },
+      "mask_switch_rate": {
+        "mean": 0.0,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": 0.0,
+        "n": 1,
+        "values": [
+          0.0
+        ]
+      },
+      "mean_run_length": {
+        "mean": 50.0,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": 50.0,
+        "n": 1,
+        "values": [
+          50.0
+        ]
+      },
+      "fps_env_steps": {
+        "mean": 3758.8381670157823,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": 3758.8381670157823,
+        "n": 1,
+        "values": [
+          3758.8381670157823
+        ]
+      },
+      "peak_memory_mb": {
+        "mean": 131.9365234375,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": 131.9365234375,
+        "n": 1,
+        "values": [
+          131.9365234375
+        ]
+      }
+    },
+    "gated_lc0.003_ls0.003_N10": {
+      "episode_return": {
+        "mean": -12.227961540222168,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": -12.227961540222168,
+        "n": 1,
+        "values": [
+          -12.227961540222168
+        ]
+      },
+      "success_rate": {
+        "mean": 0.0,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": 0.0,
+        "n": 1,
+        "values": [
+          0.0
+        ]
+      },
+      "active_link_ratio": {
+        "mean": 1.0,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": 1.0,
+        "n": 1,
+        "values": [
+          1.0
+        ]
+      },
+      "gate_switch_rate": {
+        "mean": 0.0,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": 0.0,
+        "n": 1,
+        "values": [
+          0.0
+        ]
+      },
+      "mask_switch_rate": {
+        "mean": 0.0,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": 0.0,
+        "n": 1,
+        "values": [
+          0.0
+        ]
+      },
+      "mean_run_length": {
+        "mean": 50.0,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": 50.0,
+        "n": 1,
+        "values": [
+          50.0
+        ]
+      },
+      "fps_env_steps": {
+        "mean": 4650.862214832982,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": 4650.862214832982,
+        "n": 1,
+        "values": [
+          4650.862214832982
+        ]
+      },
+      "peak_memory_mb": {
+        "mean": 132.03662109375,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": 132.03662109375,
+        "n": 1,
+        "values": [
+          132.03662109375
+        ]
+      },
+      "phi": {
+        "mean": 0.0,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": 0.0,
+        "n": 1,
+        "values": [
+          0.0
+        ]
+      },
+      "phi_excess_over_null": {
+        "mean": 0.0,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": 0.0,
+        "n": 1,
+        "values": [
+          0.0
+        ]
+      },
+      "lift": {
+        "mean": 1.0,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": 1.0,
+        "n": 1,
+        "values": [
+          1.0
+        ]
+      },
+      "phi_p_value": [
+        1.0
+      ]
+    },
+    "fullcomm_N50": {
+      "episode_return": {
+        "mean": -16.617956161499023,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": -16.617956161499023,
+        "n": 1,
+        "values": [
+          -16.617956161499023
+        ]
+      },
+      "success_rate": {
+        "mean": 0.0,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": 0.0,
+        "n": 1,
+        "values": [
+          0.0
+        ]
+      },
+      "active_link_ratio": {
+        "mean": 1.0,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": 1.0,
+        "n": 1,
+        "values": [
+          1.0
+        ]
+      },
+      "gate_switch_rate": {
+        "mean": 0.0,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": 0.0,
+        "n": 1,
+        "values": [
+          0.0
+        ]
+      },
+      "mask_switch_rate": {
+        "mean": 0.0446069061291597,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": 0.0446069061291597,
+        "n": 1,
+        "values": [
+          0.0446069061291597
+        ]
+      },
+      "mean_run_length": {
+        "mean": 23.609405987345358,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": 23.609405987345358,
+        "n": 1,
+        "values": [
+          23.609405987345358
+        ]
+      },
+      "fps_env_steps": {
+        "mean": 709.1128463878574,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": 709.1128463878574,
+        "n": 1,
+        "values": [
+          709.1128463878574
+        ]
+      },
+      "peak_memory_mb": {
+        "mean": 132.1474609375,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": 132.1474609375,
+        "n": 1,
+        "values": [
+          132.1474609375
+        ]
+      }
+    },
+    "nocomm_N50": {
+      "episode_return": {
+        "mean": -15.179210662841797,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": -15.179210662841797,
+        "n": 1,
+        "values": [
+          -15.179210662841797
+        ]
+      },
+      "success_rate": {
+        "mean": 0.0,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": 0.0,
+        "n": 1,
+        "values": [
+          0.0
+        ]
+      },
+      "active_link_ratio": {
+        "mean": 1.0,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": 1.0,
+        "n": 1,
+        "values": [
+          1.0
+        ]
+      },
+      "gate_switch_rate": {
+        "mean": 0.0,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": 0.0,
+        "n": 1,
+        "values": [
+          0.0
+        ]
+      },
+      "mask_switch_rate": {
+        "mean": 0.046301329445428675,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": 0.046301329445428675,
+        "n": 1,
+        "values": [
+          0.046301329445428675
+        ]
+      },
+      "mean_run_length": {
+        "mean": 23.134581572534625,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": 23.134581572534625,
+        "n": 1,
+        "values": [
+          23.134581572534625
+        ]
+      },
+      "fps_env_steps": {
+        "mean": 708.1783661318493,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": 708.1783661318493,
+        "n": 1,
+        "values": [
+          708.1783661318493
+        ]
+      },
+      "peak_memory_mb": {
+        "mean": 131.927734375,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": 131.927734375,
+        "n": 1,
+        "values": [
+          131.927734375
+        ]
+      }
+    },
+    "gated_lc0.003_ls0.003_N50": {
+      "episode_return": {
+        "mean": -16.76032829284668,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": -16.76032829284668,
+        "n": 1,
+        "values": [
+          -16.76032829284668
+        ]
+      },
+      "success_rate": {
+        "mean": 0.0,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": 0.0,
+        "n": 1,
+        "values": [
+          0.0
+        ]
+      },
+      "active_link_ratio": {
+        "mean": 1.0,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": 1.0,
+        "n": 1,
+        "values": [
+          1.0
+        ]
+      },
+      "gate_switch_rate": {
+        "mean": 0.0,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": 0.0,
+        "n": 1,
+        "values": [
+          0.0
+        ]
+      },
+      "mask_switch_rate": {
+        "mean": 0.04585721730067743,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": 0.04585721730067743,
+        "n": 1,
+        "values": [
+          0.04585721730067743
+        ]
+      },
+      "mean_run_length": {
+        "mean": 23.257256263954353,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": 23.257256263954353,
+        "n": 1,
+        "values": [
+          23.257256263954353
+        ]
+      },
+      "fps_env_steps": {
+        "mean": 543.6654964728006,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": 543.6654964728006,
+        "n": 1,
+        "values": [
+          543.6654964728006
+        ]
+      },
+      "peak_memory_mb": {
+        "mean": 259.95263671875,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": 259.95263671875,
+        "n": 1,
+        "values": [
+          259.95263671875
+        ]
+      },
+      "phi": {
+        "mean": 0.0,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": 0.0,
+        "n": 1,
+        "values": [
+          0.0
+        ]
+      },
+      "phi_excess_over_null": {
+        "mean": 0.0,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": 0.0,
+        "n": 1,
+        "values": [
+          0.0
+        ]
+      },
+      "lift": {
+        "mean": 1.0,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": 1.0,
+        "n": 1,
+        "values": [
+          1.0
+        ]
+      },
+      "phi_p_value": [
+        1.0
+      ]
+    },
+    "gated_ste_lc0.003_ls0_N4": {
+      "episode_return": {
+        "mean": -10.485548973083496,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": -10.485548973083496,
+        "n": 1,
+        "values": [
+          -10.485548973083496
+        ]
+      },
+      "success_rate": {
+        "mean": 0.6,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": 0.6,
+        "n": 1,
+        "values": [
+          0.6
+        ]
+      },
+      "active_link_ratio": {
+        "mean": 0.0,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": 0.0,
+        "n": 1,
+        "values": [
+          0.0
+        ]
+      },
+      "gate_switch_rate": {
+        "mean": 0.0,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": 0.0,
+        "n": 1,
+        "values": [
+          0.0
+        ]
+      },
+      "mask_switch_rate": {
+        "mean": 0.0,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": 0.0,
+        "n": 1,
+        "values": [
+          0.0
+        ]
+      },
+      "mean_run_length": {
+        "mean": 0.0,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": 0.0,
+        "n": 1,
+        "values": [
+          0.0
+        ]
+      },
+      "fps_env_steps": {
+        "mean": 5009.131375708304,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": 5009.131375708304,
+        "n": 1,
+        "values": [
+          5009.131375708304
+        ]
+      },
+      "peak_memory_mb": {
+        "mean": 36.307861328125,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": 36.307861328125,
+        "n": 1,
+        "values": [
+          36.307861328125
+        ]
+      },
+      "phi": {
+        "mean": 0.0,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": 0.0,
+        "n": 1,
+        "values": [
+          0.0
+        ]
+      },
+      "phi_excess_over_null": {
+        "mean": 0.0,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": 0.0,
+        "n": 1,
+        "values": [
+          0.0
+        ]
+      },
+      "lift": {
+        "mean": NaN,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": NaN,
+        "n": 0,
+        "values": [
+          NaN
+        ]
+      },
+      "phi_p_value": [
+        1.0
+      ]
+    },
+    "gated_ste_lc0.003_ls0.003_N4": {
+      "episode_return": {
+        "mean": -9.828540802001953,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": -9.828540802001953,
+        "n": 1,
+        "values": [
+          -9.828540802001953
+        ]
+      },
+      "success_rate": {
+        "mean": 0.63,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": 0.63,
+        "n": 1,
+        "values": [
+          0.63
+        ]
+      },
+      "active_link_ratio": {
+        "mean": 1.0,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": 1.0,
+        "n": 1,
+        "values": [
+          1.0
+        ]
+      },
+      "gate_switch_rate": {
+        "mean": 0.0,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": 0.0,
+        "n": 1,
+        "values": [
+          0.0
+        ]
+      },
+      "mask_switch_rate": {
+        "mean": 0.0,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": 0.0,
+        "n": 1,
+        "values": [
+          0.0
+        ]
+      },
+      "mean_run_length": {
+        "mean": 50.0,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": 50.0,
+        "n": 1,
+        "values": [
+          50.0
+        ]
+      },
+      "fps_env_steps": {
+        "mean": 5041.9105269262445,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": 5041.9105269262445,
+        "n": 1,
+        "values": [
+          5041.9105269262445
+        ]
+      },
+      "peak_memory_mb": {
+        "mean": 35.901611328125,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": 35.901611328125,
+        "n": 1,
+        "values": [
+          35.901611328125
+        ]
+      },
+      "phi": {
+        "mean": 0.0,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": 0.0,
+        "n": 1,
+        "values": [
+          0.0
+        ]
+      },
+      "phi_excess_over_null": {
+        "mean": 0.0,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": 0.0,
+        "n": 1,
+        "values": [
+          0.0
+        ]
+      },
+      "lift": {
+        "mean": 1.0,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": 1.0,
+        "n": 1,
+        "values": [
+          1.0
+        ]
+      },
+      "phi_p_value": [
+        1.0
+      ]
+    },
+    "gated_reinforce_lc0.003_ls0_N4": {
+      "episode_return": {
+        "mean": -9.853005409240723,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": -9.853005409240723,
+        "n": 1,
+        "values": [
+          -9.853005409240723
+        ]
+      },
+      "success_rate": {
+        "mean": 0.64,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": 0.64,
+        "n": 1,
+        "values": [
+          0.64
+        ]
+      },
+      "active_link_ratio": {
+        "mean": 0.1301,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": 0.1301,
+        "n": 1,
+        "values": [
+          0.1301
+        ]
+      },
+      "gate_switch_rate": {
+        "mean": 0.05163265306122449,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": 0.05163265306122449,
+        "n": 1,
+        "values": [
+          0.05163265306122449
+        ]
+      },
+      "mask_switch_rate": {
+        "mean": 0.0,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": 0.0,
+        "n": 1,
+        "values": [
+          0.0
+        ]
+      },
+      "mean_run_length": {
+        "mean": 3.794846864365581,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": 3.794846864365581,
+        "n": 1,
+        "values": [
+          3.794846864365581
+        ]
+      },
+      "fps_env_steps": {
+        "mean": 5445.398985022032,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": 5445.398985022032,
+        "n": 1,
+        "values": [
+          5445.398985022032
+        ]
+      },
+      "peak_memory_mb": {
+        "mean": 36.142333984375,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": 36.142333984375,
+        "n": 1,
+        "values": [
+          36.142333984375
+        ]
+      },
+      "phi": {
+        "mean": 0.0652795873486021,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": 0.0652795873486021,
+        "n": 1,
+        "values": [
+          0.0652795873486021
+        ]
+      },
+      "phi_excess_over_null": {
+        "mean": 0.10053983748319575,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": 0.10053983748319575,
+        "n": 1,
+        "values": [
+          0.10053983748319575
+        ]
+      },
+      "lift": {
+        "mean": 1.4411155430605769,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": 1.4411155430605769,
+        "n": 1,
+        "values": [
+          1.4411155430605769
+        ]
+      },
+      "phi_p_value": [
+        0.000999000999000999
+      ]
+    },
+    "gated_reinforce_lc0.003_ls0.003_N4": {
+      "episode_return": {
+        "mean": -9.855341911315918,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": -9.855341911315918,
+        "n": 1,
+        "values": [
+          -9.855341911315918
+        ]
+      },
+      "success_rate": {
+        "mean": 0.55,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": 0.55,
+        "n": 1,
+        "values": [
+          0.55
+        ]
+      },
+      "active_link_ratio": {
+        "mean": 0.62125,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": 0.62125,
+        "n": 1,
+        "values": [
+          0.62125
+        ]
+      },
+      "gate_switch_rate": {
+        "mean": 0.09903061224489795,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": 0.09903061224489795,
+        "n": 1,
+        "values": [
+          0.09903061224489795
+        ]
+      },
+      "mask_switch_rate": {
+        "mean": 0.0,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": 0.0,
+        "n": 1,
+        "values": [
+          0.0
+        ]
+      },
+      "mean_run_length": {
+        "mean": 9.92676431424767,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": 9.92676431424767,
+        "n": 1,
+        "values": [
+          9.92676431424767
+        ]
+      },
+      "fps_env_steps": {
+        "mean": 5548.912922688959,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": 5548.912922688959,
+        "n": 1,
+        "values": [
+          5548.912922688959
+        ]
+      },
+      "peak_memory_mb": {
+        "mean": 35.864990234375,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": 35.864990234375,
+        "n": 1,
+        "values": [
+          35.864990234375
+        ]
+      },
+      "phi": {
+        "mean": -0.06635775108755491,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": -0.06635775108755491,
+        "n": 1,
+        "values": [
+          -0.06635775108755491
+        ]
+      },
+      "phi_excess_over_null": {
+        "mean": 0.008950226002786832,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": 0.008950226002786832,
+        "n": 1,
+        "values": [
+          0.008950226002786832
+        ]
+      },
+      "lift": {
+        "mean": 0.8839529492859222,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": 0.8839529492859222,
+        "n": 1,
+        "values": [
+          0.8839529492859222
+        ]
+      },
+      "phi_p_value": [
+        0.07492507492507493
+      ]
+    },
+    "fullcomm_smallRobs": {
+      "episode_return": {
+        "mean": -11.664904594421387,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": -11.664904594421387,
+        "n": 1,
+        "values": [
+          -11.664904594421387
+        ]
+      },
+      "success_rate": {
+        "mean": 0.31,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": 0.31,
+        "n": 1,
+        "values": [
+          0.31
+        ]
+      },
+      "active_link_ratio": {
+        "mean": 1.0,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": 1.0,
+        "n": 1,
+        "values": [
+          1.0
+        ]
+      },
+      "gate_switch_rate": {
+        "mean": 0.0,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": 0.0,
+        "n": 1,
+        "values": [
+          0.0
+        ]
+      },
+      "mask_switch_rate": {
+        "mean": 0.0,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": 0.0,
+        "n": 1,
+        "values": [
+          0.0
+        ]
+      },
+      "mean_run_length": {
+        "mean": 50.0,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": 50.0,
+        "n": 1,
+        "values": [
+          50.0
+        ]
+      },
+      "fps_env_steps": {
+        "mean": 4233.812968548951,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": 4233.812968548951,
+        "n": 1,
+        "values": [
+          4233.812968548951
+        ]
+      },
+      "peak_memory_mb": {
+        "mean": 35.883056640625,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": 35.883056640625,
+        "n": 1,
+        "values": [
+          35.883056640625
+        ]
+      }
+    },
+    "nocomm_smallRobs": {
+      "episode_return": {
+        "mean": -13.928144454956055,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": -13.928144454956055,
+        "n": 1,
+        "values": [
+          -13.928144454956055
+        ]
+      },
+      "success_rate": {
+        "mean": 0.24,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": 0.24,
+        "n": 1,
+        "values": [
+          0.24
+        ]
+      },
+      "active_link_ratio": {
+        "mean": 1.0,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": 1.0,
+        "n": 1,
+        "values": [
+          1.0
+        ]
+      },
+      "gate_switch_rate": {
+        "mean": 0.0,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": 0.0,
+        "n": 1,
+        "values": [
+          0.0
+        ]
+      },
+      "mask_switch_rate": {
+        "mean": 0.0,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": 0.0,
+        "n": 1,
+        "values": [
+          0.0
+        ]
+      },
+      "mean_run_length": {
+        "mean": 50.0,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": 50.0,
+        "n": 1,
+        "values": [
+          50.0
+        ]
+      },
+      "fps_env_steps": {
+        "mean": 5128.226152590809,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": 5128.226152590809,
+        "n": 1,
+        "values": [
+          5128.226152590809
+        ]
+      },
+      "peak_memory_mb": {
+        "mean": 35.994140625,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": 35.994140625,
+        "n": 1,
+        "values": [
+          35.994140625
+        ]
+      }
+    },
+    "gated_lc0.003_ls0.003_smallRobs": {
+      "episode_return": {
+        "mean": -11.476993560791016,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": -11.476993560791016,
+        "n": 1,
+        "values": [
+          -11.476993560791016
+        ]
+      },
+      "success_rate": {
+        "mean": 0.37,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": 0.37,
+        "n": 1,
+        "values": [
+          0.37
+        ]
+      },
+      "active_link_ratio": {
+        "mean": 1.0,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": 1.0,
+        "n": 1,
+        "values": [
+          1.0
+        ]
+      },
+      "gate_switch_rate": {
+        "mean": 0.0,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": 0.0,
+        "n": 1,
+        "values": [
+          0.0
+        ]
+      },
+      "mask_switch_rate": {
+        "mean": 0.0,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": 0.0,
+        "n": 1,
+        "values": [
+          0.0
+        ]
+      },
+      "mean_run_length": {
+        "mean": 50.0,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": 50.0,
+        "n": 1,
+        "values": [
+          50.0
+        ]
+      },
+      "fps_env_steps": {
+        "mean": 5804.702911452313,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": 5804.702911452313,
+        "n": 1,
+        "values": [
+          5804.702911452313
+        ]
+      },
+      "peak_memory_mb": {
+        "mean": 36.0986328125,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": 36.0986328125,
+        "n": 1,
+        "values": [
+          36.0986328125
+        ]
+      },
+      "phi": {
+        "mean": 0.0,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": 0.0,
+        "n": 1,
+        "values": [
+          0.0
+        ]
+      },
+      "phi_excess_over_null": {
+        "mean": 0.0,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": 0.0,
+        "n": 1,
+        "values": [
+          0.0
+        ]
+      },
+      "lift": {
+        "mean": 1.0,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": 1.0,
+        "n": 1,
+        "values": [
+          1.0
+        ]
+      },
+      "phi_p_value": [
+        1.0
+      ]
+    }
+  },
+  "zero_shot_transfer": {
+    "fullcomm": {
+      "in_distribution_return": {
+        "mean": -16.617956161499023,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": -16.617956161499023,
+        "n": 1,
+        "values": [
+          -16.617956161499023
+        ]
+      },
+      "zero_shot_return": {
+        "mean": -16.261287689208984,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": -16.261287689208984,
+        "n": 1,
+        "values": [
+          -16.261287689208984
+        ]
+      },
+      "zero_shot_success": {
+        "mean": 0.0,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": 0.0,
+        "n": 1,
+        "values": [
+          0.0
+        ]
+      },
+      "zero_shot_density": {
+        "mean": 1.0,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": 1.0,
+        "n": 1,
+        "values": [
+          1.0
+        ]
+      }
+    },
+    "nocomm": {
+      "in_distribution_return": {
+        "mean": -15.179210662841797,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": -15.179210662841797,
+        "n": 1,
+        "values": [
+          -15.179210662841797
+        ]
+      },
+      "zero_shot_return": {
+        "mean": -15.668327331542969,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": -15.668327331542969,
+        "n": 1,
+        "values": [
+          -15.668327331542969
+        ]
+      },
+      "zero_shot_success": {
+        "mean": 0.0,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": 0.0,
+        "n": 1,
+        "values": [
+          0.0
+        ]
+      },
+      "zero_shot_density": {
+        "mean": 1.0,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": 1.0,
+        "n": 1,
+        "values": [
+          1.0
+        ]
+      }
+    },
+    "gated_lc0.003_ls0.003": {
+      "in_distribution_return": {
+        "mean": -16.76032829284668,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": -16.76032829284668,
+        "n": 1,
+        "values": [
+          -16.76032829284668
+        ]
+      },
+      "zero_shot_return": {
+        "mean": -16.221935272216797,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": -16.221935272216797,
+        "n": 1,
+        "values": [
+          -16.221935272216797
+        ]
+      },
+      "zero_shot_success": {
+        "mean": 0.0,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": 0.0,
+        "n": 1,
+        "values": [
+          0.0
+        ]
+      },
+      "zero_shot_density": {
+        "mean": 1.0,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": 1.0,
+        "n": 1,
+        "values": [
+          1.0
+        ]
+      }
+    }
+  },
+  "note": "reward is normalised per landmark, so returns are comparable across N. peak_memory_mb is the process-lifetime peak: run one N per process (e.g. --ns 50) for clean memory numbers"
+}

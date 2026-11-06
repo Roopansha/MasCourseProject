@@ -1,0 +1,1247 @@
+{
+  "per_model": {
+    "gated_lc0_ls0": {
+      "private_landmark_offset": {
+        "linear": {
+          "mean": 0.4225428104400635,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": 0.4225428104400635,
+          "n": 1,
+          "values": [
+            0.4225428104400635
+          ]
+        },
+        "mlp": {
+          "mean": 0.45820897817611694,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": 0.45820897817611694,
+          "n": 1,
+          "values": [
+            0.45820897817611694
+          ]
+        },
+        "linear_shuffled": {
+          "mean": -0.018360495567321777,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": -0.018360495567321777,
+          "n": 1,
+          "values": [
+            -0.018360495567321777
+          ]
+        },
+        "mlp_shuffled": {
+          "mean": -0.02966475486755371,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": -0.02966475486755371,
+          "n": 1,
+          "values": [
+            -0.02966475486755371
+          ]
+        }
+      },
+      "sees_uncovered": {
+        "linear": {
+          "mean": 0.74575,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": 0.74575,
+          "n": 1,
+          "values": [
+            0.74575
+          ]
+        },
+        "mlp": {
+          "mean": 0.83575,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": 0.83575,
+          "n": 1,
+          "values": [
+            0.83575
+          ]
+        },
+        "linear_shuffled": {
+          "mean": 0.70075,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": 0.70075,
+          "n": 1,
+          "values": [
+            0.70075
+          ]
+        },
+        "majority_baseline": {
+          "mean": 0.70075,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": 0.70075,
+          "n": 1,
+          "values": [
+            0.70075
+          ]
+        }
+      },
+      "human_label": {
+        "linear": {
+          "mean": 0.7135,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": 0.7135,
+          "n": 1,
+          "values": [
+            0.7135
+          ]
+        },
+        "mlp": {
+          "mean": 0.74525,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": 0.74525,
+          "n": 1,
+          "values": [
+            0.74525
+          ]
+        },
+        "linear_shuffled": {
+          "mean": 0.70075,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": 0.70075,
+          "n": 1,
+          "values": [
+            0.70075
+          ]
+        },
+        "majority_baseline": {
+          "mean": 0.70075,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": 0.70075,
+          "n": 1,
+          "values": [
+            0.70075
+          ]
+        }
+      },
+      "density": {
+        "mean": 1.0,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": 1.0,
+        "n": 1,
+        "values": [
+          1.0
+        ]
+      }
+    },
+    "gated_lc0.0003_ls0": {
+      "private_landmark_offset": {
+        "linear": {
+          "mean": 0.38009214401245117,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": 0.38009214401245117,
+          "n": 1,
+          "values": [
+            0.38009214401245117
+          ]
+        },
+        "mlp": {
+          "mean": 0.5017086267471313,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": 0.5017086267471313,
+          "n": 1,
+          "values": [
+            0.5017086267471313
+          ]
+        },
+        "linear_shuffled": {
+          "mean": -0.05094194412231445,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": -0.05094194412231445,
+          "n": 1,
+          "values": [
+            -0.05094194412231445
+          ]
+        },
+        "mlp_shuffled": {
+          "mean": -0.05989420413970947,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": -0.05989420413970947,
+          "n": 1,
+          "values": [
+            -0.05989420413970947
+          ]
+        }
+      },
+      "sees_uncovered": {
+        "linear": {
+          "mean": 0.786,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": 0.786,
+          "n": 1,
+          "values": [
+            0.786
+          ]
+        },
+        "mlp": {
+          "mean": 0.843,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": 0.843,
+          "n": 1,
+          "values": [
+            0.843
+          ]
+        },
+        "linear_shuffled": {
+          "mean": 0.764,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": 0.764,
+          "n": 1,
+          "values": [
+            0.764
+          ]
+        },
+        "majority_baseline": {
+          "mean": 0.764,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": 0.764,
+          "n": 1,
+          "values": [
+            0.764
+          ]
+        }
+      },
+      "human_label": {
+        "linear": {
+          "mean": 0.7695,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": 0.7695,
+          "n": 1,
+          "values": [
+            0.7695
+          ]
+        },
+        "mlp": {
+          "mean": 0.78525,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": 0.78525,
+          "n": 1,
+          "values": [
+            0.78525
+          ]
+        },
+        "linear_shuffled": {
+          "mean": 0.764,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": 0.764,
+          "n": 1,
+          "values": [
+            0.764
+          ]
+        },
+        "majority_baseline": {
+          "mean": 0.764,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": 0.764,
+          "n": 1,
+          "values": [
+            0.764
+          ]
+        }
+      },
+      "density": {
+        "mean": 1.0,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": 1.0,
+        "n": 1,
+        "values": [
+          1.0
+        ]
+      }
+    },
+    "gated_lc0.001_ls0": {
+      "private_landmark_offset": {
+        "linear": {
+          "mean": 0.3996507525444031,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": 0.3996507525444031,
+          "n": 1,
+          "values": [
+            0.3996507525444031
+          ]
+        },
+        "mlp": {
+          "mean": 0.47396957874298096,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": 0.47396957874298096,
+          "n": 1,
+          "values": [
+            0.47396957874298096
+          ]
+        },
+        "linear_shuffled": {
+          "mean": -0.02300560474395752,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": -0.02300560474395752,
+          "n": 1,
+          "values": [
+            -0.02300560474395752
+          ]
+        },
+        "mlp_shuffled": {
+          "mean": -0.04409956932067871,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": -0.04409956932067871,
+          "n": 1,
+          "values": [
+            -0.04409956932067871
+          ]
+        }
+      },
+      "sees_uncovered": {
+        "linear": {
+          "mean": 0.79875,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": 0.79875,
+          "n": 1,
+          "values": [
+            0.79875
+          ]
+        },
+        "mlp": {
+          "mean": 0.85625,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": 0.85625,
+          "n": 1,
+          "values": [
+            0.85625
+          ]
+        },
+        "linear_shuffled": {
+          "mean": 0.73275,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": 0.73275,
+          "n": 1,
+          "values": [
+            0.73275
+          ]
+        },
+        "majority_baseline": {
+          "mean": 0.73275,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": 0.73275,
+          "n": 1,
+          "values": [
+            0.73275
+          ]
+        }
+      },
+      "human_label": {
+        "linear": {
+          "mean": 0.747,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": 0.747,
+          "n": 1,
+          "values": [
+            0.747
+          ]
+        },
+        "mlp": {
+          "mean": 0.758,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": 0.758,
+          "n": 1,
+          "values": [
+            0.758
+          ]
+        },
+        "linear_shuffled": {
+          "mean": 0.73275,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": 0.73275,
+          "n": 1,
+          "values": [
+            0.73275
+          ]
+        },
+        "majority_baseline": {
+          "mean": 0.73275,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": 0.73275,
+          "n": 1,
+          "values": [
+            0.73275
+          ]
+        }
+      },
+      "density": {
+        "mean": 1.0,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": 1.0,
+        "n": 1,
+        "values": [
+          1.0
+        ]
+      }
+    },
+    "gated_lc0.003_ls0": {
+      "private_landmark_offset": {
+        "linear": {
+          "mean": 0.4220423102378845,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": 0.4220423102378845,
+          "n": 1,
+          "values": [
+            0.4220423102378845
+          ]
+        },
+        "mlp": {
+          "mean": 0.4719828963279724,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": 0.4719828963279724,
+          "n": 1,
+          "values": [
+            0.4719828963279724
+          ]
+        },
+        "linear_shuffled": {
+          "mean": 0.004928410053253174,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": 0.004928410053253174,
+          "n": 1,
+          "values": [
+            0.004928410053253174
+          ]
+        },
+        "mlp_shuffled": {
+          "mean": -0.01698899269104004,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": -0.01698899269104004,
+          "n": 1,
+          "values": [
+            -0.01698899269104004
+          ]
+        }
+      },
+      "sees_uncovered": {
+        "linear": {
+          "mean": 0.82475,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": 0.82475,
+          "n": 1,
+          "values": [
+            0.82475
+          ]
+        },
+        "mlp": {
+          "mean": 0.86525,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": 0.86525,
+          "n": 1,
+          "values": [
+            0.86525
+          ]
+        },
+        "linear_shuffled": {
+          "mean": 0.746,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": 0.746,
+          "n": 1,
+          "values": [
+            0.746
+          ]
+        },
+        "majority_baseline": {
+          "mean": 0.746,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": 0.746,
+          "n": 1,
+          "values": [
+            0.746
+          ]
+        }
+      },
+      "human_label": {
+        "linear": {
+          "mean": 0.76125,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": 0.76125,
+          "n": 1,
+          "values": [
+            0.76125
+          ]
+        },
+        "mlp": {
+          "mean": 0.76725,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": 0.76725,
+          "n": 1,
+          "values": [
+            0.76725
+          ]
+        },
+        "linear_shuffled": {
+          "mean": 0.746,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": 0.746,
+          "n": 1,
+          "values": [
+            0.746
+          ]
+        },
+        "majority_baseline": {
+          "mean": 0.746,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": 0.746,
+          "n": 1,
+          "values": [
+            0.746
+          ]
+        }
+      },
+      "density": {
+        "mean": 1.0,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": 1.0,
+        "n": 1,
+        "values": [
+          1.0
+        ]
+      }
+    },
+    "gated_lc0.01_ls0": {
+      "private_landmark_offset": {
+        "linear": {
+          "mean": 0.35514920949935913,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": 0.35514920949935913,
+          "n": 1,
+          "values": [
+            0.35514920949935913
+          ]
+        },
+        "mlp": {
+          "mean": 0.4032626748085022,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": 0.4032626748085022,
+          "n": 1,
+          "values": [
+            0.4032626748085022
+          ]
+        },
+        "linear_shuffled": {
+          "mean": -0.00036656856536865234,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": -0.00036656856536865234,
+          "n": 1,
+          "values": [
+            -0.00036656856536865234
+          ]
+        },
+        "mlp_shuffled": {
+          "mean": -0.01662921905517578,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": -0.01662921905517578,
+          "n": 1,
+          "values": [
+            -0.01662921905517578
+          ]
+        }
+      },
+      "sees_uncovered": {
+        "linear": {
+          "mean": 0.7515,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": 0.7515,
+          "n": 1,
+          "values": [
+            0.7515
+          ]
+        },
+        "mlp": {
+          "mean": 0.80675,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": 0.80675,
+          "n": 1,
+          "values": [
+            0.80675
+          ]
+        },
+        "linear_shuffled": {
+          "mean": 0.73075,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": 0.73075,
+          "n": 1,
+          "values": [
+            0.73075
+          ]
+        },
+        "majority_baseline": {
+          "mean": 0.73075,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": 0.73075,
+          "n": 1,
+          "values": [
+            0.73075
+          ]
+        }
+      },
+      "human_label": {
+        "linear": {
+          "mean": 0.7315,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": 0.7315,
+          "n": 1,
+          "values": [
+            0.7315
+          ]
+        },
+        "mlp": {
+          "mean": 0.7345,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": 0.7345,
+          "n": 1,
+          "values": [
+            0.7345
+          ]
+        },
+        "linear_shuffled": {
+          "mean": 0.73075,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": 0.73075,
+          "n": 1,
+          "values": [
+            0.73075
+          ]
+        },
+        "majority_baseline": {
+          "mean": 0.73075,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": 0.73075,
+          "n": 1,
+          "values": [
+            0.73075
+          ]
+        }
+      },
+      "density": {
+        "mean": 0.05413333333333333,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": 0.05413333333333333,
+        "n": 1,
+        "values": [
+          0.05413333333333333
+        ]
+      }
+    },
+    "gated_lc0.03_ls0": {
+      "private_landmark_offset": {
+        "linear": {
+          "mean": 0.347323477268219,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": 0.347323477268219,
+          "n": 1,
+          "values": [
+            0.347323477268219
+          ]
+        },
+        "mlp": {
+          "mean": 0.4476047158241272,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": 0.4476047158241272,
+          "n": 1,
+          "values": [
+            0.4476047158241272
+          ]
+        },
+        "linear_shuffled": {
+          "mean": -0.019806981086730957,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": -0.019806981086730957,
+          "n": 1,
+          "values": [
+            -0.019806981086730957
+          ]
+        },
+        "mlp_shuffled": {
+          "mean": -0.017868757247924805,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": -0.017868757247924805,
+          "n": 1,
+          "values": [
+            -0.017868757247924805
+          ]
+        }
+      },
+      "sees_uncovered": {
+        "linear": {
+          "mean": 0.74925,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": 0.74925,
+          "n": 1,
+          "values": [
+            0.74925
+          ]
+        },
+        "mlp": {
+          "mean": 0.818,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": 0.818,
+          "n": 1,
+          "values": [
+            0.818
+          ]
+        },
+        "linear_shuffled": {
+          "mean": 0.72025,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": 0.72025,
+          "n": 1,
+          "values": [
+            0.72025
+          ]
+        },
+        "majority_baseline": {
+          "mean": 0.72025,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": 0.72025,
+          "n": 1,
+          "values": [
+            0.72025
+          ]
+        }
+      },
+      "human_label": {
+        "linear": {
+          "mean": 0.72475,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": 0.72475,
+          "n": 1,
+          "values": [
+            0.72475
+          ]
+        },
+        "mlp": {
+          "mean": 0.71675,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": 0.71675,
+          "n": 1,
+          "values": [
+            0.71675
+          ]
+        },
+        "linear_shuffled": {
+          "mean": 0.72025,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": 0.72025,
+          "n": 1,
+          "values": [
+            0.72025
+          ]
+        },
+        "majority_baseline": {
+          "mean": 0.72025,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": 0.72025,
+          "n": 1,
+          "values": [
+            0.72025
+          ]
+        }
+      },
+      "density": {
+        "mean": 0.00125,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": 0.00125,
+        "n": 1,
+        "values": [
+          0.00125
+        ]
+      }
+    },
+    "gated_lc0.1_ls0": {
+      "private_landmark_offset": {
+        "linear": {
+          "mean": 0.4187871813774109,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": 0.4187871813774109,
+          "n": 1,
+          "values": [
+            0.4187871813774109
+          ]
+        },
+        "mlp": {
+          "mean": 0.5145584344863892,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": 0.5145584344863892,
+          "n": 1,
+          "values": [
+            0.5145584344863892
+          ]
+        },
+        "linear_shuffled": {
+          "mean": 0.01752018928527832,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": 0.01752018928527832,
+          "n": 1,
+          "values": [
+            0.01752018928527832
+          ]
+        },
+        "mlp_shuffled": {
+          "mean": -0.03112506866455078,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": -0.03112506866455078,
+          "n": 1,
+          "values": [
+            -0.03112506866455078
+          ]
+        }
+      },
+      "sees_uncovered": {
+        "linear": {
+          "mean": 0.75025,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": 0.75025,
+          "n": 1,
+          "values": [
+            0.75025
+          ]
+        },
+        "mlp": {
+          "mean": 0.842,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": 0.842,
+          "n": 1,
+          "values": [
+            0.842
+          ]
+        },
+        "linear_shuffled": {
+          "mean": 0.731,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": 0.731,
+          "n": 1,
+          "values": [
+            0.731
+          ]
+        },
+        "majority_baseline": {
+          "mean": 0.731,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": 0.731,
+          "n": 1,
+          "values": [
+            0.731
+          ]
+        }
+      },
+      "human_label": {
+        "linear": {
+          "mean": 0.737,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": 0.737,
+          "n": 1,
+          "values": [
+            0.737
+          ]
+        },
+        "mlp": {
+          "mean": 0.77225,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": 0.77225,
+          "n": 1,
+          "values": [
+            0.77225
+          ]
+        },
+        "linear_shuffled": {
+          "mean": 0.731,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": 0.731,
+          "n": 1,
+          "values": [
+            0.731
+          ]
+        },
+        "majority_baseline": {
+          "mean": 0.731,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": 0.731,
+          "n": 1,
+          "values": [
+            0.731
+          ]
+        }
+      },
+      "density": {
+        "mean": 0.0,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": 0.0,
+        "n": 1,
+        "values": [
+          0.0
+        ]
+      }
+    },
+    "fullcomm": {
+      "private_landmark_offset": {
+        "linear": {
+          "mean": 0.34854018688201904,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": 0.34854018688201904,
+          "n": 1,
+          "values": [
+            0.34854018688201904
+          ]
+        },
+        "mlp": {
+          "mean": 0.4595705270767212,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": 0.4595705270767212,
+          "n": 1,
+          "values": [
+            0.4595705270767212
+          ]
+        },
+        "linear_shuffled": {
+          "mean": -0.002779841423034668,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": -0.002779841423034668,
+          "n": 1,
+          "values": [
+            -0.002779841423034668
+          ]
+        },
+        "mlp_shuffled": {
+          "mean": -0.03953969478607178,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": -0.03953969478607178,
+          "n": 1,
+          "values": [
+            -0.03953969478607178
+          ]
+        }
+      },
+      "sees_uncovered": {
+        "linear": {
+          "mean": 0.7605,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": 0.7605,
+          "n": 1,
+          "values": [
+            0.7605
+          ]
+        },
+        "mlp": {
+          "mean": 0.85925,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": 0.85925,
+          "n": 1,
+          "values": [
+            0.85925
+          ]
+        },
+        "linear_shuffled": {
+          "mean": 0.72575,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": 0.72575,
+          "n": 1,
+          "values": [
+            0.72575
+          ]
+        },
+        "majority_baseline": {
+          "mean": 0.72575,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": 0.72575,
+          "n": 1,
+          "values": [
+            0.72575
+          ]
+        }
+      },
+      "human_label": {
+        "linear": {
+          "mean": 0.73475,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": 0.73475,
+          "n": 1,
+          "values": [
+            0.73475
+          ]
+        },
+        "mlp": {
+          "mean": 0.75925,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": 0.75925,
+          "n": 1,
+          "values": [
+            0.75925
+          ]
+        },
+        "linear_shuffled": {
+          "mean": 0.72575,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": 0.72575,
+          "n": 1,
+          "values": [
+            0.72575
+          ]
+        },
+        "majority_baseline": {
+          "mean": 0.72575,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": 0.72575,
+          "n": 1,
+          "values": [
+            0.72575
+          ]
+        }
+      },
+      "density": {
+        "mean": 1.0,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": 1.0,
+        "n": 1,
+        "values": [
+          1.0
+        ]
+      }
+    },
+    "nocomm": {
+      "private_landmark_offset": {
+        "linear": {
+          "mean": -0.011855363845825195,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": -0.011855363845825195,
+          "n": 1,
+          "values": [
+            -0.011855363845825195
+          ]
+        },
+        "mlp": {
+          "mean": -0.011855363845825195,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": -0.011855363845825195,
+          "n": 1,
+          "values": [
+            -0.011855363845825195
+          ]
+        },
+        "linear_shuffled": {
+          "mean": -0.011855363845825195,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": -0.011855363845825195,
+          "n": 1,
+          "values": [
+            -0.011855363845825195
+          ]
+        },
+        "mlp_shuffled": {
+          "mean": -0.011855363845825195,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": -0.011855363845825195,
+          "n": 1,
+          "values": [
+            -0.011855363845825195
+          ]
+        }
+      },
+      "sees_uncovered": {
+        "linear": {
+          "mean": 0.73675,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": 0.73675,
+          "n": 1,
+          "values": [
+            0.73675
+          ]
+        },
+        "mlp": {
+          "mean": 0.73675,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": 0.73675,
+          "n": 1,
+          "values": [
+            0.73675
+          ]
+        },
+        "linear_shuffled": {
+          "mean": 0.73675,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": 0.73675,
+          "n": 1,
+          "values": [
+            0.73675
+          ]
+        },
+        "majority_baseline": {
+          "mean": 0.73675,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": 0.73675,
+          "n": 1,
+          "values": [
+            0.73675
+          ]
+        }
+      },
+      "human_label": {
+        "linear": {
+          "mean": 0.73675,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": 0.73675,
+          "n": 1,
+          "values": [
+            0.73675
+          ]
+        },
+        "mlp": {
+          "mean": 0.73675,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": 0.73675,
+          "n": 1,
+          "values": [
+            0.73675
+          ]
+        },
+        "linear_shuffled": {
+          "mean": 0.73675,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": 0.73675,
+          "n": 1,
+          "values": [
+            0.73675
+          ]
+        },
+        "majority_baseline": {
+          "mean": 0.73675,
+          "ci_lo": NaN,
+          "ci_hi": NaN,
+          "iqm": 0.73675,
+          "n": 1,
+          "values": [
+            0.73675
+          ]
+        }
+      },
+      "density": {
+        "mean": 1.0,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": 1.0,
+        "n": 1,
+        "values": [
+          1.0
+        ]
+      }
+    }
+  },
+  "note": "R^2 for offsets, accuracy for labels; held out by episode"
+}

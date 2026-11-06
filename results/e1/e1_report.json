@@ -1,0 +1,292 @@
+{
+  "table": {
+    "nocomm": {
+      "episode_return": {
+        "mean": -10.662053108215332,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": -10.662053108215332,
+        "n": 1,
+        "values": [
+          -10.662053108215332
+        ]
+      },
+      "success_rate": {
+        "mean": 0.64,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": 0.64,
+        "n": 1,
+        "values": [
+          0.64
+        ]
+      },
+      "final_coverage": {
+        "mean": 0.82,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": 0.82,
+        "n": 1,
+        "values": [
+          0.82
+        ]
+      },
+      "active_link_ratio": {
+        "mean": 1.0,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": 1.0,
+        "n": 1,
+        "values": [
+          1.0
+        ]
+      },
+      "event_rate": {
+        "mean": 0.2192,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": 0.2192,
+        "n": 1,
+        "values": [
+          0.2192
+        ]
+      }
+    },
+    "fullcomm": {
+      "episode_return": {
+        "mean": -9.602072715759277,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": -9.602072715759277,
+        "n": 1,
+        "values": [
+          -9.602072715759277
+        ]
+      },
+      "success_rate": {
+        "mean": 0.59,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": 0.59,
+        "n": 1,
+        "values": [
+          0.59
+        ]
+      },
+      "final_coverage": {
+        "mean": 0.78,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": 0.78,
+        "n": 1,
+        "values": [
+          0.78
+        ]
+      },
+      "active_link_ratio": {
+        "mean": 1.0,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": 1.0,
+        "n": 1,
+        "values": [
+          1.0
+        ]
+      },
+      "event_rate": {
+        "mean": 0.24891666666666667,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": 0.24891666666666667,
+        "n": 1,
+        "values": [
+          0.24891666666666667
+        ]
+      }
+    },
+    "handrule_d0.25": {
+      "episode_return": {
+        "mean": -9.801392555236816,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": -9.801392555236816,
+        "n": 1,
+        "values": [
+          -9.801392555236816
+        ]
+      },
+      "success_rate": {
+        "mean": 0.62,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": 0.62,
+        "n": 1,
+        "values": [
+          0.62
+        ]
+      },
+      "final_coverage": {
+        "mean": 0.7975,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": 0.7975,
+        "n": 1,
+        "values": [
+          0.7975
+        ]
+      },
+      "active_link_ratio": {
+        "mean": 0.017233333333333333,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": 0.017233333333333333,
+        "n": 1,
+        "values": [
+          0.017233333333333333
+        ]
+      },
+      "event_rate": {
+        "mean": 0.21663333333333334,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": 0.21663333333333334,
+        "n": 1,
+        "values": [
+          0.21663333333333334
+        ]
+      }
+    },
+    "handrule_d0.5": {
+      "episode_return": {
+        "mean": -9.919116020202637,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": -9.919116020202637,
+        "n": 1,
+        "values": [
+          -9.919116020202637
+        ]
+      },
+      "success_rate": {
+        "mean": 0.65,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": 0.65,
+        "n": 1,
+        "values": [
+          0.65
+        ]
+      },
+      "final_coverage": {
+        "mean": 0.8225,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": 0.8225,
+        "n": 1,
+        "values": [
+          0.8225
+        ]
+      },
+      "active_link_ratio": {
+        "mean": 0.14363333333333334,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": 0.14363333333333334,
+        "n": 1,
+        "values": [
+          0.14363333333333334
+        ]
+      },
+      "event_rate": {
+        "mean": 0.23721666666666666,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": 0.23721666666666666,
+        "n": 1,
+        "values": [
+          0.23721666666666666
+        ]
+      }
+    },
+    "handrule_d1": {
+      "episode_return": {
+        "mean": -9.582622528076172,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": -9.582622528076172,
+        "n": 1,
+        "values": [
+          -9.582622528076172
+        ]
+      },
+      "success_rate": {
+        "mean": 0.64,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": 0.64,
+        "n": 1,
+        "values": [
+          0.64
+        ]
+      },
+      "final_coverage": {
+        "mean": 0.7925,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": 0.7925,
+        "n": 1,
+        "values": [
+          0.7925
+        ]
+      },
+      "active_link_ratio": {
+        "mean": 0.4911,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": 0.4911,
+        "n": 1,
+        "values": [
+          0.4911
+        ]
+      },
+      "event_rate": {
+        "mean": 0.24586666666666668,
+        "ci_lo": NaN,
+        "ci_hi": NaN,
+        "iqm": 0.24586666666666668,
+        "n": 1,
+        "values": [
+          0.24586666666666668
+        ]
+      }
+    }
+  },
+  "best_handrule": "handrule_d1",
+  "fullcomm_minus_nocomm_return": [
+    1.0599803924560547,
+    NaN,
+    NaN
+  ],
+  "besthand_minus_nocomm_return": [
+    1.0794305801391602,
+    NaN,
+    NaN
+  ],
+  "event_rate_fullcomm": 0.24891666666666667,
+  "event_rate_per_distance_bin": {
+    "0-0.5": 0.019230769230769232,
+    "0.5-1": 0.12451424870466321,
+    "1-1.5": 0.24984690753214941,
+    "1.5-2": 0.2751363990646921,
+    ">2": 0.2719970568397817
+  },
+  "checks": {
+    "fullcomm_beats_nocomm": true,
+    "fullcomm_not_at_ceiling": true,
+    "handrule_beats_nocomm": true,
+    "event_rate_in_10_30pct": true,
+    "event_rate_varies_across_bins": true
+  },
+  "all_pass": true,
+  "if_fail": "shrink env.obs_radius, hide landmarks more often, or add more landmarks than a local view covers"
+}

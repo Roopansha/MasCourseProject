@@ -1,0 +1,927 @@
+{
+  "grid_lc": [
+    0.0,
+    0.03,
+    0.3
+  ],
+  "grid_ls": [
+    0.0,
+    0.03,
+    0.3
+  ],
+  "table": {
+    "gated_lc0_ls0": {
+      "episode_return": {
+        "mean": -30.663145065307617,
+        "ci_lo": -30.783111572265625,
+        "ci_hi": -30.54317855834961,
+        "iqm": -30.663145065307617,
+        "n": 2,
+        "values": [
+          -30.783111572265625,
+          -30.54317855834961
+        ]
+      },
+      "success_rate": {
+        "mean": 0.0,
+        "ci_lo": 0.0,
+        "ci_hi": 0.0,
+        "iqm": 0.0,
+        "n": 2,
+        "values": [
+          0.0,
+          0.0
+        ]
+      },
+      "active_link_ratio": {
+        "mean": 1.0,
+        "ci_lo": 1.0,
+        "ci_hi": 1.0,
+        "iqm": 1.0,
+        "n": 2,
+        "values": [
+          1.0,
+          1.0
+        ]
+      },
+      "gate_switch_rate": {
+        "mean": 0.0,
+        "ci_lo": 0.0,
+        "ci_hi": 0.0,
+        "iqm": 0.0,
+        "n": 2,
+        "values": [
+          0.0,
+          0.0
+        ]
+      },
+      "mask_switch_rate": {
+        "mean": 0.0,
+        "ci_lo": 0.0,
+        "ci_hi": 0.0,
+        "iqm": 0.0,
+        "n": 2,
+        "values": [
+          0.0,
+          0.0
+        ]
+      },
+      "mean_run_length": {
+        "mean": 50.0,
+        "ci_lo": 50.0,
+        "ci_hi": 50.0,
+        "iqm": 50.0,
+        "n": 2,
+        "values": [
+          50.0,
+          50.0
+        ]
+      },
+      "event_rate": {
+        "mean": 0.3447395833333333,
+        "ci_lo": 0.34125,
+        "ci_hi": 0.34822916666666665,
+        "iqm": 0.3447395833333333,
+        "n": 2,
+        "values": [
+          0.34125,
+          0.34822916666666665
+        ]
+      }
+    },
+    "gated_lc0_ls0.03": {
+      "episode_return": {
+        "mean": -30.663145065307617,
+        "ci_lo": -30.783111572265625,
+        "ci_hi": -30.54317855834961,
+        "iqm": -30.663145065307617,
+        "n": 2,
+        "values": [
+          -30.783111572265625,
+          -30.54317855834961
+        ]
+      },
+      "success_rate": {
+        "mean": 0.0,
+        "ci_lo": 0.0,
+        "ci_hi": 0.0,
+        "iqm": 0.0,
+        "n": 2,
+        "values": [
+          0.0,
+          0.0
+        ]
+      },
+      "active_link_ratio": {
+        "mean": 1.0,
+        "ci_lo": 1.0,
+        "ci_hi": 1.0,
+        "iqm": 1.0,
+        "n": 2,
+        "values": [
+          1.0,
+          1.0
+        ]
+      },
+      "gate_switch_rate": {
+        "mean": 0.0,
+        "ci_lo": 0.0,
+        "ci_hi": 0.0,
+        "iqm": 0.0,
+        "n": 2,
+        "values": [
+          0.0,
+          0.0
+        ]
+      },
+      "mask_switch_rate": {
+        "mean": 0.0,
+        "ci_lo": 0.0,
+        "ci_hi": 0.0,
+        "iqm": 0.0,
+        "n": 2,
+        "values": [
+          0.0,
+          0.0
+        ]
+      },
+      "mean_run_length": {
+        "mean": 50.0,
+        "ci_lo": 50.0,
+        "ci_hi": 50.0,
+        "iqm": 50.0,
+        "n": 2,
+        "values": [
+          50.0,
+          50.0
+        ]
+      },
+      "event_rate": {
+        "mean": 0.3447395833333333,
+        "ci_lo": 0.34125,
+        "ci_hi": 0.34822916666666665,
+        "iqm": 0.3447395833333333,
+        "n": 2,
+        "values": [
+          0.34125,
+          0.34822916666666665
+        ]
+      }
+    },
+    "gated_lc0_ls0.3": {
+      "episode_return": {
+        "mean": -30.66666889190674,
+        "ci_lo": -30.790159225463867,
+        "ci_hi": -30.54317855834961,
+        "iqm": -30.66666889190674,
+        "n": 2,
+        "values": [
+          -30.790159225463867,
+          -30.54317855834961
+        ]
+      },
+      "success_rate": {
+        "mean": 0.0,
+        "ci_lo": 0.0,
+        "ci_hi": 0.0,
+        "iqm": 0.0,
+        "n": 2,
+        "values": [
+          0.0,
+          0.0
+        ]
+      },
+      "active_link_ratio": {
+        "mean": 1.0,
+        "ci_lo": 1.0,
+        "ci_hi": 1.0,
+        "iqm": 1.0,
+        "n": 2,
+        "values": [
+          1.0,
+          1.0
+        ]
+      },
+      "gate_switch_rate": {
+        "mean": 0.0,
+        "ci_lo": 0.0,
+        "ci_hi": 0.0,
+        "iqm": 0.0,
+        "n": 2,
+        "values": [
+          0.0,
+          0.0
+        ]
+      },
+      "mask_switch_rate": {
+        "mean": 0.0,
+        "ci_lo": 0.0,
+        "ci_hi": 0.0,
+        "iqm": 0.0,
+        "n": 2,
+        "values": [
+          0.0,
+          0.0
+        ]
+      },
+      "mean_run_length": {
+        "mean": 50.0,
+        "ci_lo": 50.0,
+        "ci_hi": 50.0,
+        "iqm": 50.0,
+        "n": 2,
+        "values": [
+          50.0,
+          50.0
+        ]
+      },
+      "event_rate": {
+        "mean": 0.34510416666666666,
+        "ci_lo": 0.34197916666666667,
+        "ci_hi": 0.34822916666666665,
+        "iqm": 0.34510416666666666,
+        "n": 2,
+        "values": [
+          0.34197916666666667,
+          0.34822916666666665
+        ]
+      }
+    },
+    "gated_lc0.03_ls0": {
+      "episode_return": {
+        "mean": -30.663145065307617,
+        "ci_lo": -30.783111572265625,
+        "ci_hi": -30.54317855834961,
+        "iqm": -30.663145065307617,
+        "n": 2,
+        "values": [
+          -30.783111572265625,
+          -30.54317855834961
+        ]
+      },
+      "success_rate": {
+        "mean": 0.0,
+        "ci_lo": 0.0,
+        "ci_hi": 0.0,
+        "iqm": 0.0,
+        "n": 2,
+        "values": [
+          0.0,
+          0.0
+        ]
+      },
+      "active_link_ratio": {
+        "mean": 1.0,
+        "ci_lo": 1.0,
+        "ci_hi": 1.0,
+        "iqm": 1.0,
+        "n": 2,
+        "values": [
+          1.0,
+          1.0
+        ]
+      },
+      "gate_switch_rate": {
+        "mean": 0.0,
+        "ci_lo": 0.0,
+        "ci_hi": 0.0,
+        "iqm": 0.0,
+        "n": 2,
+        "values": [
+          0.0,
+          0.0
+        ]
+      },
+      "mask_switch_rate": {
+        "mean": 0.0,
+        "ci_lo": 0.0,
+        "ci_hi": 0.0,
+        "iqm": 0.0,
+        "n": 2,
+        "values": [
+          0.0,
+          0.0
+        ]
+      },
+      "mean_run_length": {
+        "mean": 50.0,
+        "ci_lo": 50.0,
+        "ci_hi": 50.0,
+        "iqm": 50.0,
+        "n": 2,
+        "values": [
+          50.0,
+          50.0
+        ]
+      },
+      "event_rate": {
+        "mean": 0.3447395833333333,
+        "ci_lo": 0.34125,
+        "ci_hi": 0.34822916666666665,
+        "iqm": 0.3447395833333333,
+        "n": 2,
+        "values": [
+          0.34125,
+          0.34822916666666665
+        ]
+      }
+    },
+    "gated_lc0.03_ls0.03": {
+      "episode_return": {
+        "mean": -30.663145065307617,
+        "ci_lo": -30.783111572265625,
+        "ci_hi": -30.54317855834961,
+        "iqm": -30.663145065307617,
+        "n": 2,
+        "values": [
+          -30.783111572265625,
+          -30.54317855834961
+        ]
+      },
+      "success_rate": {
+        "mean": 0.0,
+        "ci_lo": 0.0,
+        "ci_hi": 0.0,
+        "iqm": 0.0,
+        "n": 2,
+        "values": [
+          0.0,
+          0.0
+        ]
+      },
+      "active_link_ratio": {
+        "mean": 1.0,
+        "ci_lo": 1.0,
+        "ci_hi": 1.0,
+        "iqm": 1.0,
+        "n": 2,
+        "values": [
+          1.0,
+          1.0
+        ]
+      },
+      "gate_switch_rate": {
+        "mean": 0.0,
+        "ci_lo": 0.0,
+        "ci_hi": 0.0,
+        "iqm": 0.0,
+        "n": 2,
+        "values": [
+          0.0,
+          0.0
+        ]
+      },
+      "mask_switch_rate": {
+        "mean": 0.0,
+        "ci_lo": 0.0,
+        "ci_hi": 0.0,
+        "iqm": 0.0,
+        "n": 2,
+        "values": [
+          0.0,
+          0.0
+        ]
+      },
+      "mean_run_length": {
+        "mean": 50.0,
+        "ci_lo": 50.0,
+        "ci_hi": 50.0,
+        "iqm": 50.0,
+        "n": 2,
+        "values": [
+          50.0,
+          50.0
+        ]
+      },
+      "event_rate": {
+        "mean": 0.3447395833333333,
+        "ci_lo": 0.34125,
+        "ci_hi": 0.34822916666666665,
+        "iqm": 0.3447395833333333,
+        "n": 2,
+        "values": [
+          0.34125,
+          0.34822916666666665
+        ]
+      }
+    },
+    "gated_lc0.03_ls0.3": {
+      "episode_return": {
+        "mean": -30.66666889190674,
+        "ci_lo": -30.790159225463867,
+        "ci_hi": -30.54317855834961,
+        "iqm": -30.66666889190674,
+        "n": 2,
+        "values": [
+          -30.790159225463867,
+          -30.54317855834961
+        ]
+      },
+      "success_rate": {
+        "mean": 0.0,
+        "ci_lo": 0.0,
+        "ci_hi": 0.0,
+        "iqm": 0.0,
+        "n": 2,
+        "values": [
+          0.0,
+          0.0
+        ]
+      },
+      "active_link_ratio": {
+        "mean": 1.0,
+        "ci_lo": 1.0,
+        "ci_hi": 1.0,
+        "iqm": 1.0,
+        "n": 2,
+        "values": [
+          1.0,
+          1.0
+        ]
+      },
+      "gate_switch_rate": {
+        "mean": 0.0,
+        "ci_lo": 0.0,
+        "ci_hi": 0.0,
+        "iqm": 0.0,
+        "n": 2,
+        "values": [
+          0.0,
+          0.0
+        ]
+      },
+      "mask_switch_rate": {
+        "mean": 0.0,
+        "ci_lo": 0.0,
+        "ci_hi": 0.0,
+        "iqm": 0.0,
+        "n": 2,
+        "values": [
+          0.0,
+          0.0
+        ]
+      },
+      "mean_run_length": {
+        "mean": 50.0,
+        "ci_lo": 50.0,
+        "ci_hi": 50.0,
+        "iqm": 50.0,
+        "n": 2,
+        "values": [
+          50.0,
+          50.0
+        ]
+      },
+      "event_rate": {
+        "mean": 0.34510416666666666,
+        "ci_lo": 0.34197916666666667,
+        "ci_hi": 0.34822916666666665,
+        "iqm": 0.34510416666666666,
+        "n": 2,
+        "values": [
+          0.34197916666666667,
+          0.34822916666666665
+        ]
+      }
+    },
+    "gated_lc0.3_ls0": {
+      "episode_return": {
+        "mean": -30.651716232299805,
+        "ci_lo": -30.783111572265625,
+        "ci_hi": -30.520320892333984,
+        "iqm": -30.651716232299805,
+        "n": 2,
+        "values": [
+          -30.783111572265625,
+          -30.520320892333984
+        ]
+      },
+      "success_rate": {
+        "mean": 0.0,
+        "ci_lo": 0.0,
+        "ci_hi": 0.0,
+        "iqm": 0.0,
+        "n": 2,
+        "values": [
+          0.0,
+          0.0
+        ]
+      },
+      "active_link_ratio": {
+        "mean": 1.0,
+        "ci_lo": 1.0,
+        "ci_hi": 1.0,
+        "iqm": 1.0,
+        "n": 2,
+        "values": [
+          1.0,
+          1.0
+        ]
+      },
+      "gate_switch_rate": {
+        "mean": 0.0,
+        "ci_lo": 0.0,
+        "ci_hi": 0.0,
+        "iqm": 0.0,
+        "n": 2,
+        "values": [
+          0.0,
+          0.0
+        ]
+      },
+      "mask_switch_rate": {
+        "mean": 0.0,
+        "ci_lo": 0.0,
+        "ci_hi": 0.0,
+        "iqm": 0.0,
+        "n": 2,
+        "values": [
+          0.0,
+          0.0
+        ]
+      },
+      "mean_run_length": {
+        "mean": 50.0,
+        "ci_lo": 50.0,
+        "ci_hi": 50.0,
+        "iqm": 50.0,
+        "n": 2,
+        "values": [
+          50.0,
+          50.0
+        ]
+      },
+      "event_rate": {
+        "mean": 0.34411458333333333,
+        "ci_lo": 0.34125,
+        "ci_hi": 0.34697916666666667,
+        "iqm": 0.34411458333333333,
+        "n": 2,
+        "values": [
+          0.34125,
+          0.34697916666666667
+        ]
+      }
+    },
+    "gated_lc0.3_ls0.03": {
+      "episode_return": {
+        "mean": -30.651716232299805,
+        "ci_lo": -30.783111572265625,
+        "ci_hi": -30.520320892333984,
+        "iqm": -30.651716232299805,
+        "n": 2,
+        "values": [
+          -30.783111572265625,
+          -30.520320892333984
+        ]
+      },
+      "success_rate": {
+        "mean": 0.0,
+        "ci_lo": 0.0,
+        "ci_hi": 0.0,
+        "iqm": 0.0,
+        "n": 2,
+        "values": [
+          0.0,
+          0.0
+        ]
+      },
+      "active_link_ratio": {
+        "mean": 1.0,
+        "ci_lo": 1.0,
+        "ci_hi": 1.0,
+        "iqm": 1.0,
+        "n": 2,
+        "values": [
+          1.0,
+          1.0
+        ]
+      },
+      "gate_switch_rate": {
+        "mean": 0.0,
+        "ci_lo": 0.0,
+        "ci_hi": 0.0,
+        "iqm": 0.0,
+        "n": 2,
+        "values": [
+          0.0,
+          0.0
+        ]
+      },
+      "mask_switch_rate": {
+        "mean": 0.0,
+        "ci_lo": 0.0,
+        "ci_hi": 0.0,
+        "iqm": 0.0,
+        "n": 2,
+        "values": [
+          0.0,
+          0.0
+        ]
+      },
+      "mean_run_length": {
+        "mean": 50.0,
+        "ci_lo": 50.0,
+        "ci_hi": 50.0,
+        "iqm": 50.0,
+        "n": 2,
+        "values": [
+          50.0,
+          50.0
+        ]
+      },
+      "event_rate": {
+        "mean": 0.34411458333333333,
+        "ci_lo": 0.34125,
+        "ci_hi": 0.34697916666666667,
+        "iqm": 0.34411458333333333,
+        "n": 2,
+        "values": [
+          0.34125,
+          0.34697916666666667
+        ]
+      }
+    },
+    "gated_lc0.3_ls0.3": {
+      "episode_return": {
+        "mean": -30.66666889190674,
+        "ci_lo": -30.790159225463867,
+        "ci_hi": -30.54317855834961,
+        "iqm": -30.66666889190674,
+        "n": 2,
+        "values": [
+          -30.790159225463867,
+          -30.54317855834961
+        ]
+      },
+      "success_rate": {
+        "mean": 0.0,
+        "ci_lo": 0.0,
+        "ci_hi": 0.0,
+        "iqm": 0.0,
+        "n": 2,
+        "values": [
+          0.0,
+          0.0
+        ]
+      },
+      "active_link_ratio": {
+        "mean": 1.0,
+        "ci_lo": 1.0,
+        "ci_hi": 1.0,
+        "iqm": 1.0,
+        "n": 2,
+        "values": [
+          1.0,
+          1.0
+        ]
+      },
+      "gate_switch_rate": {
+        "mean": 0.0,
+        "ci_lo": 0.0,
+        "ci_hi": 0.0,
+        "iqm": 0.0,
+        "n": 2,
+        "values": [
+          0.0,
+          0.0
+        ]
+      },
+      "mask_switch_rate": {
+        "mean": 0.0,
+        "ci_lo": 0.0,
+        "ci_hi": 0.0,
+        "iqm": 0.0,
+        "n": 2,
+        "values": [
+          0.0,
+          0.0
+        ]
+      },
+      "mean_run_length": {
+        "mean": 50.0,
+        "ci_lo": 50.0,
+        "ci_hi": 50.0,
+        "iqm": 50.0,
+        "n": 2,
+        "values": [
+          50.0,
+          50.0
+        ]
+      },
+      "event_rate": {
+        "mean": 0.34510416666666666,
+        "ci_lo": 0.34197916666666667,
+        "ci_hi": 0.34822916666666665,
+        "iqm": 0.34510416666666666,
+        "n": 2,
+        "values": [
+          0.34197916666666667,
+          0.34822916666666665
+        ]
+      }
+    }
+  },
+  "per_run": [
+    {
+      "name": "gated_lc0_ls0",
+      "lc": 0.0,
+      "ls": 0.0,
+      "density": 1.0,
+      "switch": 0.0,
+      "run_length": 50.0,
+      "mask_switch": 0.0,
+      "return": -30.783111572265625
+    },
+    {
+      "name": "gated_lc0_ls0",
+      "lc": 0.0,
+      "ls": 0.0,
+      "density": 1.0,
+      "switch": 0.0,
+      "run_length": 50.0,
+      "mask_switch": 0.0,
+      "return": -30.54317855834961
+    },
+    {
+      "name": "gated_lc0_ls0.03",
+      "lc": 0.0,
+      "ls": 0.03,
+      "density": 1.0,
+      "switch": 0.0,
+      "run_length": 50.0,
+      "mask_switch": 0.0,
+      "return": -30.783111572265625
+    },
+    {
+      "name": "gated_lc0_ls0.03",
+      "lc": 0.0,
+      "ls": 0.03,
+      "density": 1.0,
+      "switch": 0.0,
+      "run_length": 50.0,
+      "mask_switch": 0.0,
+      "return": -30.54317855834961
+    },
+    {
+      "name": "gated_lc0_ls0.3",
+      "lc": 0.0,
+      "ls": 0.3,
+      "density": 1.0,
+      "switch": 0.0,
+      "run_length": 50.0,
+      "mask_switch": 0.0,
+      "return": -30.790159225463867
+    },
+    {
+      "name": "gated_lc0_ls0.3",
+      "lc": 0.0,
+      "ls": 0.3,
+      "density": 1.0,
+      "switch": 0.0,
+      "run_length": 50.0,
+      "mask_switch": 0.0,
+      "return": -30.54317855834961
+    },
+    {
+      "name": "gated_lc0.03_ls0",
+      "lc": 0.03,
+      "ls": 0.0,
+      "density": 1.0,
+      "switch": 0.0,
+      "run_length": 50.0,
+      "mask_switch": 0.0,
+      "return": -30.783111572265625
+    },
+    {
+      "name": "gated_lc0.03_ls0",
+      "lc": 0.03,
+      "ls": 0.0,
+      "density": 1.0,
+      "switch": 0.0,
+      "run_length": 50.0,
+      "mask_switch": 0.0,
+      "return": -30.54317855834961
+    },
+    {
+      "name": "gated_lc0.03_ls0.03",
+      "lc": 0.03,
+      "ls": 0.03,
+      "density": 1.0,
+      "switch": 0.0,
+      "run_length": 50.0,
+      "mask_switch": 0.0,
+      "return": -30.783111572265625
+    },
+    {
+      "name": "gated_lc0.03_ls0.03",
+      "lc": 0.03,
+      "ls": 0.03,
+      "density": 1.0,
+      "switch": 0.0,
+      "run_length": 50.0,
+      "mask_switch": 0.0,
+      "return": -30.54317855834961
+    },
+    {
+      "name": "gated_lc0.03_ls0.3",
+      "lc": 0.03,
+      "ls": 0.3,
+      "density": 1.0,
+      "switch": 0.0,
+      "run_length": 50.0,
+      "mask_switch": 0.0,
+      "return": -30.790159225463867
+    },
+    {
+      "name": "gated_lc0.03_ls0.3",
+      "lc": 0.03,
+      "ls": 0.3,
+      "density": 1.0,
+      "switch": 0.0,
+      "run_length": 50.0,
+      "mask_switch": 0.0,
+      "return": -30.54317855834961
+    },
+    {
+      "name": "gated_lc0.3_ls0",
+      "lc": 0.3,
+      "ls": 0.0,
+      "density": 1.0,
+      "switch": 0.0,
+      "run_length": 50.0,
+      "mask_switch": 0.0,
+      "return": -30.783111572265625
+    },
+    {
+      "name": "gated_lc0.3_ls0",
+      "lc": 0.3,
+      "ls": 0.0,
+      "density": 1.0,
+      "switch": 0.0,
+      "run_length": 50.0,
+      "mask_switch": 0.0,
+      "return": -30.520320892333984
+    },
+    {
+      "name": "gated_lc0.3_ls0.03",
+      "lc": 0.3,
+      "ls": 0.03,
+      "density": 1.0,
+      "switch": 0.0,
+      "run_length": 50.0,
+      "mask_switch": 0.0,
+      "return": -30.783111572265625
+    },
+    {
+      "name": "gated_lc0.3_ls0.03",
+      "lc": 0.3,
+      "ls": 0.03,
+      "density": 1.0,
+      "switch": 0.0,
+      "run_length": 50.0,
+      "mask_switch": 0.0,
+      "return": -30.520320892333984
+    },
+    {
+      "name": "gated_lc0.3_ls0.3",
+      "lc": 0.3,
+      "ls": 0.3,
+      "density": 1.0,
+      "switch": 0.0,
+      "run_length": 50.0,
+      "mask_switch": 0.0,
+      "return": -30.790159225463867
+    },
+    {
+      "name": "gated_lc0.3_ls0.3",
+      "lc": 0.3,
+      "ls": 0.3,
+      "density": 1.0,
+      "switch": 0.0,
+      "run_length": 50.0,
+      "mask_switch": 0.0,
+      "return": -30.54317855834961
+    }
+  ],
+  "matched_density": [
+    {
+      "density_bin": [
+        0.9,
+        1.0
+      ],
+      "n_ls0": 6,
+      "n_ls_pos": 12,
+      "return_ls0": -30.659335454305012,
+      "return_ls_pos": -30.663002173105877,
+      "return_diff": -0.0036667188008649987,
+      "return_diff_ci": [
+        -0.12539871136347341,
+        0.11937920252482215
+      ],
+      "switch_ls0": 0.0,
+      "switch_ls_pos": 0.0
+    }
+  ],
+  "readout": "return differing between lambda_s settings within a density bin => persistence matters independently; only switch rate differing => affects stability, not performance"
+}

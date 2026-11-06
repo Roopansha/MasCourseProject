@@ -1,0 +1,7 @@
+condition,episode_return_mean,episode_return_ci_lo,episode_return_ci_hi,episode_return_iqm,episode_return_n,success_rate_mean,success_rate_ci_lo,success_rate_ci_hi,success_rate_iqm,success_rate_n,active_link_ratio_mean,active_link_ratio_ci_lo,active_link_ratio_ci_hi,active_link_ratio_iqm,active_link_ratio_n,gate_switch_rate_mean,gate_switch_rate_ci_lo,gate_switch_rate_ci_hi,gate_switch_rate_iqm,gate_switch_rate_n,mean_run_length_mean,mean_run_length_ci_lo,mean_run_length_ci_hi,mean_run_length_iqm,mean_run_length_n
+gated_lc0_ls0,-30.663145065307617,-30.783111572265625,-30.54317855834961,-30.663145065307617,2,0.0,0.0,0.0,0.0,2,1.0,1.0,1.0,1.0,2,0.0,0.0,0.0,0.0,2,50.0,50.0,50.0,50.0,2
+gated_lc0.01_ls0,-30.663145065307617,-30.783111572265625,-30.54317855834961,-30.663145065307617,2,0.0,0.0,0.0,0.0,2,1.0,1.0,1.0,1.0,2,0.0,0.0,0.0,0.0,2,50.0,50.0,50.0,50.0,2
+gated_lc0.03_ls0,-30.663145065307617,-30.783111572265625,-30.54317855834961,-30.663145065307617,2,0.0,0.0,0.0,0.0,2,1.0,1.0,1.0,1.0,2,0.0,0.0,0.0,0.0,2,50.0,50.0,50.0,50.0,2
+gated_lc0.1_ls0,-30.663145065307617,-30.783111572265625,-30.54317855834961,-30.663145065307617,2,0.0,0.0,0.0,0.0,2,1.0,1.0,1.0,1.0,2,0.0,0.0,0.0,0.0,2,50.0,50.0,50.0,50.0,2
+gated_lc0.3_ls0,-30.651716232299805,-30.783111572265625,-30.520320892333984,-30.651716232299805,2,0.0,0.0,0.0,0.0,2,1.0,1.0,1.0,1.0,2,0.0,0.0,0.0,0.0,2,50.0,50.0,50.0,50.0,2
+gated_lc1_ls0,-30.63903045654297,-30.757740020751953,-30.520320892333984,-30.63903045654297,2,0.0,0.0,0.0,0.0,2,1.0,1.0,1.0,1.0,2,0.0,0.0,0.0,0.0,2,50.0,50.0,50.0,50.0,2
